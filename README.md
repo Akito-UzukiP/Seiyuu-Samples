@@ -1,0 +1,1 @@
+## A place to store seiyuu's sample voice lines on their personal websites.
