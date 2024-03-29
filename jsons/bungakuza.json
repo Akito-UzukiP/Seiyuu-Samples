@@ -1,0 +1,829 @@
+[
+  {
+    "name": "本山 可久子",
+    "homepage": "https://www.bungakuza.com/member/prof/motoyama-kakuko.htm",
+    "sex": "female",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/motoyama-kakuko.mp3",
+        "name": "motoyama-kakuko.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "寺田 路恵",
+    "homepage": "https://www.bungakuza.com/member/prof/terada-michie.htm",
+    "sex": "female",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/terada-michie1.mp3",
+        "name": "terada-michie1.mp3",
+        "description": "老婆"
+      },
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/terada-michie2.mp3",
+        "name": "terada-michie2.mp3",
+        "description": "やさしい母"
+      },
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/terada-michie3.mp3",
+        "name": "terada-michie3.mp3",
+        "description": "子供を心配する母"
+      },
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/terada-michie4.mp3",
+        "name": "terada-michie4.mp3",
+        "description": "朗読　樋口一葉「にごりえ」より"
+      }
+    ]
+  },
+  {
+    "name": "玉井 碧",
+    "homepage": "https://www.bungakuza.com/member/prof/tamai-midori.htm",
+    "sex": "female",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/tamai-midori.mp3",
+        "name": "tamai-midori.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "吉野 由志子",
+    "homepage": "https://www.bungakuza.com/member/prof/yoshino-yoshiko.htm",
+    "sex": "female",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/yoshino-yoshiko.mp3",
+        "name": "yoshino-yoshiko.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "倉野 章子",
+    "homepage": "https://www.bungakuza.com/member/prof/kurano-akiko.htm",
+    "sex": "female",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/kurano-akiko.mp3",
+        "name": "kurano-akiko.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "神保 共子",
+    "homepage": "https://www.bungakuza.com/member/prof/jinbo-tomoko.htm",
+    "sex": "female",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/jinbo-tomoko.mp3",
+        "name": "jinbo-tomoko.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "新橋 耐子",
+    "homepage": "https://www.bungakuza.com/member/prof/shinbashi-taiko.htm",
+    "sex": "female",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/shinbashi-taiko.mp3",
+        "name": "shinbashi-taiko.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "藤堂 陽子",
+    "homepage": "https://www.bungakuza.com/member/prof/toudou-youko.htm",
+    "sex": "female",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/toudou-youko.mp3",
+        "name": "toudou-youko.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "南 一恵",
+    "homepage": "https://www.bungakuza.com/member/prof/minami-kazue.htm",
+    "sex": "female",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/minami-kazue.mp3",
+        "name": "minami-kazue.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "山本 道子",
+    "homepage": "https://www.bungakuza.com/member/prof/yamamoto-michiko.htm",
+    "sex": "female",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/yamamoto-michiko.mp3",
+        "name": "yamamoto-michiko.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "赤司 まり子",
+    "homepage": "https://www.bungakuza.com/member/prof/akashi-mariko.htm",
+    "sex": "female",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/akashi-mariko.mp3",
+        "name": "akashi-mariko.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "小野 洋子",
+    "homepage": "https://www.bungakuza.com/member/prof/ono-yoko.htm",
+    "sex": "female",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/ono-yoko.mp3",
+        "name": "ono-yoko.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "中川 雅子",
+    "homepage": "https://www.bungakuza.com/member/prof/nakagawa-masako.htm",
+    "sex": "female",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/nakagawa-masako.mp3",
+        "name": "nakagawa-masako.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "富沢 亜古",
+    "homepage": "https://www.bungakuza.com/member/prof/tomizawa-ako.htm",
+    "sex": "female",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/tomizawa-ako.mp3",
+        "name": "tomizawa-ako.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "古坂 るみ子",
+    "homepage": "https://www.bungakuza.com/member/prof/furusaka-rumiko.htm",
+    "sex": "female",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/furusaka-rumiko.mp3",
+        "name": "furusaka-rumiko.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "つかもと 景子",
+    "homepage": "https://www.bungakuza.com/member/prof/tsukamoto-keiko.htm",
+    "sex": "female",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/tsukamoto-keiko.mp3",
+        "name": "tsukamoto-keiko.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "清水 馨",
+    "homepage": "https://www.bungakuza.com/member/prof/shimizu-kaori.htm",
+    "sex": "female",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/shimizu-kaori.mp3",
+        "name": "shimizu-kaori.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "江守 徹",
+    "homepage": "https://www.bungakuza.com/member/prof/emori-tohru.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/emori-tohru.mp3",
+        "name": "emori-tohru.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "小林 勝也",
+    "homepage": "https://www.bungakuza.com/member/prof/kobayashi-katsuya.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/kobayashi-katsuya.mp3",
+        "name": "kobayashi-katsuya.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "林 秀樹",
+    "homepage": "https://www.bungakuza.com/member/prof/hayashi-hideki.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/hayashi-hideki.mp3",
+        "name": "hayashi-hideki.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "鵜澤 秀行",
+    "homepage": "https://www.bungakuza.com/member/prof/uzawa-hideyuki.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/uzawa-hideyuki.mp3",
+        "name": "uzawa-hideyuki.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "清水 幹生",
+    "homepage": "https://www.bungakuza.com/member/prof/shimizu-mikio.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/shimizu-mikio.mp3",
+        "name": "shimizu-mikio.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "角野 卓造",
+    "homepage": "https://www.bungakuza.com/member/prof/kadono-takuzou.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/kadono-takuzou.mp3",
+        "name": "kadono-takuzou.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "田村 勝彦",
+    "homepage": "https://www.bungakuza.com/member/prof/tamura-katsuhiko.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/tamura-katsuhiko1.mp3",
+        "name": "tamura-katsuhiko1.mp3",
+        "description": "上機嫌な男性"
+      },
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/tamura-katsuhiko2.mp3",
+        "name": "tamura-katsuhiko2.mp3",
+        "description": "怒る男性"
+      },
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/tamura-katsuhiko3.mp3",
+        "name": "tamura-katsuhiko3.mp3",
+        "description": "憤る男性"
+      },
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/tamura-katsuhiko4.mp3",
+        "name": "tamura-katsuhiko4.mp3",
+        "description": "諭す父親"
+      }
+    ]
+  },
+  {
+    "name": "たかお 鷹",
+    "homepage": "https://www.bungakuza.com/member/prof/takao-taka.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/takao-taka.mp3",
+        "name": "takao-taka.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "原 康義",
+    "homepage": "https://www.bungakuza.com/member/prof/hara-yasuyoshi.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/hara-yasuyoshi.mp3",
+        "name": "hara-yasuyoshi.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "石田 圭祐",
+    "homepage": "https://www.bungakuza.com/member/prof/ishida-keisuke.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/ishida-keisuke.mp3",
+        "name": "ishida-keisuke.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "早坂 直家",
+    "homepage": "https://www.bungakuza.com/member/prof/hayasaka-naoya.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/hayasaka-naoya.mp3",
+        "name": "hayasaka-naoya.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "脇田 茂",
+    "homepage": "https://www.bungakuza.com/member/prof/wakita-shigeru.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/wakita-shigeru.mp3",
+        "name": "wakita-shigeru.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "石川 武",
+    "homepage": "https://www.bungakuza.com/member/prof/ishikawa-takeshi.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/ishikawa-takeshi.mp3",
+        "name": "ishikawa-takeshi.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "高瀬 哲朗",
+    "homepage": "https://www.bungakuza.com/member/prof/takase-tetsuo.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/takase-tetsuo1.mp3",
+        "name": "takase-tetsuo1.mp3",
+        "description": "元気づけようとする男性"
+      },
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/takase-tetsuo2.mp3",
+        "name": "takase-tetsuo2.mp3",
+        "description": "困惑する男性"
+      },
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/takase-tetsuo3.mp3",
+        "name": "takase-tetsuo3.mp3",
+        "description": "悲観的な男性"
+      }
+    ]
+  },
+  {
+    "name": "岡本 正巳",
+    "homepage": "https://www.bungakuza.com/member/prof/okamoto-masami.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/okamoto-masami.mp3",
+        "name": "okamoto-masami.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "斎藤 志郎",
+    "homepage": "https://www.bungakuza.com/member/prof/saitou-shirou.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/saito-shiro.mp3",
+        "name": "saito-shiro.mp3",
+        "description": ""
+      },
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/saito-shiro1.mp3",
+        "name": "saito-shiro1.mp3",
+        "description": "名前"
+      }
+    ]
+  },
+  {
+    "name": "大滝 寛",
+    "homepage": "https://www.bungakuza.com/member/prof/ohtaki-hiroshi.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/ohtaki-hiroshi.mp3",
+        "name": "ohtaki-hiroshi.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "中村 彰男",
+    "homepage": "https://www.bungakuza.com/member/prof/nakamura-akio.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/nakamura-akio.mp3",
+        "name": "nakamura-akio.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "加納 朋之",
+    "homepage": "https://www.bungakuza.com/member/prof/kanou-tomoyuki.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/kanou-tomoyuki.mp3",
+        "name": "kanou-tomoyuki.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "得丸 伸二",
+    "homepage": "https://www.bungakuza.com/member/prof/tokumaru-shinji.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/tokumaru-shinji.mp3",
+        "name": "tokumaru-shinji.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "橋 耕次郎",
+    "homepage": "https://www.bungakuza.com/member/prof/takahashi-koujirou.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/takahashi-koujirou.mp3",
+        "name": "takahashi-koujirou.mp3",
+        "description": ""
+      },
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/takahashi-koujirou2.mp3",
+        "name": "takahashi-koujirou2.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "田中 明生",
+    "homepage": "https://www.bungakuza.com/member/prof/tanaka-akio.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/tanaka-akio1.mp3",
+        "name": "tanaka-akio1.mp3",
+        "description": "　勇敢な男性"
+      },
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/tanaka-akio2.mp3",
+        "name": "tanaka-akio2.mp3",
+        "description": "やさしい父親"
+      },
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/tanaka-akio3.mp3",
+        "name": "tanaka-akio3.mp3",
+        "description": "啓発する男性"
+      },
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/tanaka-akio4.mp3",
+        "name": "tanaka-akio4.mp3",
+        "description": "淡々と話す男性"
+      }
+    ]
+  },
+  {
+    "name": "廣田 高志",
+    "homepage": "https://www.bungakuza.com/member/prof/hirota-takashi.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/hirota-takashi.mp3",
+        "name": "hirota-takashi.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "清水 明彦",
+    "homepage": "https://www.bungakuza.com/member/prof/shimizu-akihiko.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/shimizu-akihiko.mp3",
+        "name": "shimizu-akihiko.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "高橋 ひろし",
+    "homepage": "https://www.bungakuza.com/member/prof/takahashi-hiroshi.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/takahashi-hiroshi.mp3",
+        "name": "takahashi-hiroshi.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "大原 康裕",
+    "homepage": "https://www.bungakuza.com/member/prof/ohara-yasuhiro.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/ohhara-yasuhiro1.mp3",
+        "name": "ohhara-yasuhiro1.mp3",
+        "description": "不遜な男"
+      },
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/ohhara-yasuhiro2.mp3",
+        "name": "ohhara-yasuhiro2.mp3",
+        "description": "朗読"
+      },
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/ohhara-yasuhiro3.mp3",
+        "name": "ohhara-yasuhiro3.mp3",
+        "description": "名古屋弁"
+      }
+    ]
+  },
+  {
+    "name": "吉野 正弘",
+    "homepage": "https://www.bungakuza.com/member/prof/yoshino-masahiro.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/yoshino-masahiro.mp3",
+        "name": "yoshino-masahiro.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "高橋 克明",
+    "homepage": "https://www.bungakuza.com/member/prof/takahashi-katsuaki.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/takahashi-katsuaki.mp3",
+        "name": "takahashi-katsuaki.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "今村 俊一",
+    "homepage": "https://www.bungakuza.com/member/prof/imamura-syunichi.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/imamura-syunichi.mp3",
+        "name": "imamura-syunichi.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "瀬戸口 郁",
+    "homepage": "https://www.bungakuza.com/member/prof/setoguchi-kaoru.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/setoguchi-kaoru.mp3",
+        "name": "setoguchi-kaoru.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "藤川 三郎",
+    "homepage": "https://www.bungakuza.com/member/prof/fujikawa-saburou.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/fujikawa-saburo.mp3",
+        "name": "fujikawa-saburo.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "若松 泰弘",
+    "homepage": "https://www.bungakuza.com/member/prof/wakamatu-yasuhiro.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/wakamatsu-yasuhiro.mp3",
+        "name": "wakamatsu-yasuhiro.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "沢田 冬樹",
+    "homepage": "https://www.bungakuza.com/member/prof/sawada-fuyuki.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/sawada-fuyuki.mp3",
+        "name": "sawada-fuyuki.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "鈴木 弘秋",
+    "homepage": "https://www.bungakuza.com/member/prof/suzuki-hiroaki.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/suzuki-hiroaki.mp3",
+        "name": "suzuki-hiroaki.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "横山 祥二",
+    "homepage": "https://www.bungakuza.com/member/prof/yokoyama-syouji.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/yokoyama-syouji.mp3",
+        "name": "yokoyama-syouji.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "浅野 雅博",
+    "homepage": "https://www.bungakuza.com/member/prof/asano-masahiro.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/asano-masahiro.mp3",
+        "name": "asano-masahiro.mp3",
+        "description": ""
+      },
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/asano-masahiro2.mp3",
+        "name": "asano-masahiro2.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "横田 栄司",
+    "homepage": "https://www.bungakuza.com/member/prof/yokota-eiji.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/yokota-eiji.mp3",
+        "name": "yokota-eiji.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "岸槌 隆至",
+    "homepage": "https://www.bungakuza.com/member/prof/kishizuchi-ryushi.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/kishizuchi-ryushi.mp3",
+        "name": "kishizuchi-ryushi.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "櫻井 章喜",
+    "homepage": "https://www.bungakuza.com/member/prof/sakurai-akiyoshi.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/sakurai-akiyoshi1.mp3",
+        "name": "sakurai-akiyoshi1.mp3",
+        "description": ""
+      },
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/sakurai-akiyoshi2.mp3",
+        "name": "sakurai-akiyoshi2.mp3",
+        "description": "私の最後の晩餐"
+      },
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/sakurai-akiyoshi3.mp3",
+        "name": "sakurai-akiyoshi3.mp3",
+        "description": "台詞"
+      },
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/sakurai-akiyoshi4.mp3",
+        "name": "sakurai-akiyoshi4.mp3",
+        "description": "台詞(方言)"
+      }
+    ]
+  },
+  {
+    "name": "林田 一高",
+    "homepage": "https://www.bungakuza.com/member/prof/hayashida-kazutaka.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/hayashida-kazutaka.mp3",
+        "name": "hayashida-kazutaka.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "松井 工",
+    "homepage": "https://www.bungakuza.com/member/prof/matsui-takumi.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/matsui-takumi.mp3",
+        "name": "matsui-takumi.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "石橋 徹郎",
+    "homepage": "https://www.bungakuza.com/member/prof/ishibashi-tetsurou.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/ishibashi-tetsuro.mp3",
+        "name": "ishibashi-tetsuro.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "椎原 克知",
+    "homepage": "https://www.bungakuza.com/member/prof/shiibara-katsutomo.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/shiibara-katsutomo.mp3",
+        "name": "shiibara-katsutomo.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "粟野 史浩",
+    "homepage": "https://www.bungakuza.com/member/prof/awano-fumihiro.htm",
+    "sex": "male",
+    "voices": [
+      {
+        "url": "http://www.bungakuza.sakura.ne.jp/member/prof/voice/awano-fumihiro.mp3",
+        "name": "awano-fumihiro.mp3",
+        "description": ""
+      }
+    ]
+  }
+]
