@@ -1,0 +1,3111 @@
+[
+  {
+    "name": "秋本 哲志",
+    "homepage": "https://stay-luck.com/talent/akimoto-satoshi/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1.新米刑事.wav",
+        "name": "1.新米刑事.wav",
+        "description": "01. 新米刑事"
+      },
+      {
+        "url": "http://stay-luck.com/files/2.高校生_熱血.wav",
+        "name": "2.高校生_熱血.wav",
+        "description": "02. 高校生 熱血"
+      },
+      {
+        "url": "http://stay-luck.com/files/3.高校生_お調子者.wav",
+        "name": "3.高校生_お調子者.wav",
+        "description": "03. 高校生 お調子者"
+      },
+      {
+        "url": "http://stay-luck.com/files/4.妹思いの兄.wav",
+        "name": "4.妹思いの兄.wav",
+        "description": "04. 妹思いの兄"
+      },
+      {
+        "url": "http://stay-luck.com/files/5.冷徹な傭兵.wav",
+        "name": "5.冷徹な傭兵.wav",
+        "description": "05. 冷徹な傭兵"
+      },
+      {
+        "url": "http://stay-luck.com/files/6.ナレーション_ナチュラル系.wav",
+        "name": "6.ナレーション_ナチュラル系.wav",
+        "description": "06. ナレーション ナチュラル系"
+      },
+      {
+        "url": "http://stay-luck.com/files/7.ナレーション_バラエティ系.wav",
+        "name": "7.ナレーション_バラエティ系.wav",
+        "description": "07. ナレーション バラエティー系"
+      },
+      {
+        "url": "http://stay-luck.com/files/8.フリートーク.wav",
+        "name": "8.フリートーク.wav",
+        "description": "08. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "朝田 陽貴",
+    "homepage": "https://stay-luck.com/talent/asada-haruki/",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Haruki-Asada_高校生.mp3",
+        "name": "1Haruki-Asada_高校生.mp3",
+        "description": "01. 高校生"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Haruki-Asada_お調子者.mp3",
+        "name": "2Haruki-Asada_お調子者.mp3",
+        "description": "02. お調子者"
+      },
+      {
+        "url": "http://stay-luck.com/files/3Haruki-Asada_20代半ば.mp3",
+        "name": "3Haruki-Asada_20代半ば.mp3",
+        "description": "03. 20代半ば"
+      },
+      {
+        "url": "http://stay-luck.com/files/4Haruki-Asada_方言.mp3",
+        "name": "4Haruki-Asada_方言.mp3",
+        "description": "04. 方言"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Haruki-Asada_番組ナレーション.mp3",
+        "name": "5Haruki-Asada_番組ナレーション.mp3",
+        "description": "05. 番組ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/6Haruki-Asada_宣伝ナレーション.mp3",
+        "name": "6Haruki-Asada_宣伝ナレーション.mp3",
+        "description": "06. 宣伝ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Haruki-Asada_freetalk.mp3",
+        "name": "Haruki-Asada_freetalk.mp3",
+        "description": "07. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "石井 瑞樹",
+    "homepage": "https://stay-luck.com/talent/ishii-mizuki/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Mizuki-Ishi_ナチュラル.mp3",
+        "name": "1Mizuki-Ishi_ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Mizuki-Ishi_中学生.mp3",
+        "name": "2Mizuki-Ishi_中学生.mp3",
+        "description": "02. 中学生"
+      },
+      {
+        "url": "http://stay-luck.com/files/3Mizuki-Ishi_部活.mp3",
+        "name": "3Mizuki-Ishi_部活.mp3",
+        "description": "03. 部活"
+      },
+      {
+        "url": "http://stay-luck.com/files/4Mizuki-Ishi_教師.mp3",
+        "name": "4Mizuki-Ishi_教師.mp3",
+        "description": "04. 教師"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Mizuki-Ishi_弱気.mp3",
+        "name": "5Mizuki-Ishi_弱気.mp3",
+        "description": "05. 弱気"
+      },
+      {
+        "url": " http://stay-luck.com/files/6Mizuki-Ishi_CMナレーション.mp3",
+        "name": "6Mizuki-Ishi_CMナレーション.mp3",
+        "description": "06. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Mizuki-Ishi_freetalk.mp3",
+        "name": "Mizuki-Ishi_freetalk.mp3",
+        "description": "07. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "石川 界人",
+    "homepage": "https://stay-luck.com/talent/ishikawa-kaito/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/台詞1-1_口の悪いストイック役.mp3",
+        "name": "台詞1-1_口の悪いストイック役.mp3",
+        "description": "01. ストイック"
+      },
+      {
+        "url": "http://stay-luck.com/files/台詞2-1_プロデューサー的な柔らかい優しい役.mp3",
+        "name": "台詞2-1_プロデューサー的な柔らかい優しい役.mp3",
+        "description": "02. 優しい"
+      },
+      {
+        "url": "http://stay-luck.com/files/台詞3-2_世界を救う王道主人公役.mp3",
+        "name": "台詞3-2_世界を救う王道主人公役.mp3",
+        "description": "03. 熱血"
+      },
+      {
+        "url": "http://stay-luck.com/files/台詞4-1_三枚目的なへらへらした役.mp3",
+        "name": "台詞4-1_三枚目的なへらへらした役.mp3",
+        "description": "04. お調子もの"
+      },
+      {
+        "url": "http://stay-luck.com/files/台詞5-1_洋画吹き替えを意識した重めの役.mp3",
+        "name": "台詞5-1_洋画吹き替えを意識した重めの役.mp3",
+        "description": "05. 30代固め"
+      },
+      {
+        "url": "http://stay-luck.com/files/台詞5-2_洋画吹き替えを意識した重めの役.mp3",
+        "name": "台詞5-2_洋画吹き替えを意識した重めの役.mp3",
+        "description": "06. 青年"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション1-1_バラエティナレを意識した明るく元気な物.mp3",
+        "name": "ナレーション1-1_バラエティナレを意識した明るく元気な物.mp3",
+        "description": "07. 番組ナレーション1"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション2-1_車のナレーション意識の落ち着いた物.mp3",
+        "name": "ナレーション2-1_車のナレーション意識の落ち着いた物.mp3",
+        "description": "08. 番組ナレーション2"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション3_スポーツ番組ナレーション.mp3",
+        "name": "ナレーション3_スポーツ番組ナレーション.mp3",
+        "description": "09. 番組ナレーション3"
+      },
+      {
+        "url": "http://stay-luck.com/files/フリートーク-2.mp3",
+        "name": "フリートーク-2.mp3",
+        "description": "10. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "いとう さとる",
+    "homepage": "https://stay-luck.com/talent/ito-satoru/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Satoru-Itoh_ナチュラル.mp3",
+        "name": "1Satoru-Itoh_ナチュラル.mp3",
+        "description": "01. バーのマスター"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Satoru-Itoh_思いやりのある教師.mp3",
+        "name": "2Satoru-Itoh_思いやりのある教師.mp3",
+        "description": "02. 思いやりのある教師"
+      },
+      {
+        "url": "http://stay-luck.com/files/3Satoru-Itoh_復讐する男.mp3",
+        "name": "3Satoru-Itoh_復讐する男.mp3",
+        "description": "03. 復讐する男"
+      },
+      {
+        "url": "http://stay-luck.com/files/4Satoru-Itoh_ギャグ.mp3",
+        "name": "4Satoru-Itoh_ギャグ.mp3",
+        "description": "04. ギャグ"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Satoru-Itoh_番宣ナレーション.mp3",
+        "name": "5Satoru-Itoh_番宣ナレーション.mp3",
+        "description": "05. 番宣ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/6Satoru-Itoh_CMナレーション.mp3",
+        "name": "6Satoru-Itoh_CMナレーション.mp3",
+        "description": "06. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Satoru-Ito_freetalk.mp3",
+        "name": "Satoru-Ito_freetalk.mp3",
+        "description": "07. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "越後屋 コースケ",
+    "homepage": "https://stay-luck.com/talent/echigoya-kosuke/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/男性1優男.mp3",
+        "name": "男性1優男.mp3",
+        "description": "01. 優男"
+      },
+      {
+        "url": "http://stay-luck.com/files/男性8落ち着き、クール.mp3",
+        "name": "男性8落ち着き、クール.mp3",
+        "description": "02. クール"
+      },
+      {
+        "url": "http://stay-luck.com/files/男性6テンション高めの親玉.mp3",
+        "name": "男性6テンション高めの親玉.mp3",
+        "description": "03. テンション高めの親玉"
+      },
+      {
+        "url": "http://stay-luck.com/files/男性10泣き、怒り、仲間想い.mp3",
+        "name": "男性10泣き、怒り、仲間想い.mp3",
+        "description": "04. 仲間想いな男(泣き・怒り)"
+      },
+      {
+        "url": "http://stay-luck.com/files/男性4陽気、おねえにも.mp3",
+        "name": "男性4陽気、おねえにも.mp3",
+        "description": "05. 陽気な男"
+      },
+      {
+        "url": "http://stay-luck.com/files/キャラ1詰め合わせ、赤ちゃんもあるよ.mp3",
+        "name": "キャラ1詰め合わせ、赤ちゃんもあるよ.mp3",
+        "description": "06. キャラクター詰め合わせ"
+      },
+      {
+        "url": "http://stay-luck.com/files/年配2普通.mp3",
+        "name": "年配2普通.mp3",
+        "description": "07. 老人"
+      },
+      {
+        "url": "http://stay-luck.com/files/年配4執事.mp3",
+        "name": "年配4執事.mp3",
+        "description": "08. 執事のおじいさん"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション車.wav",
+        "name": "ナレーション車.wav",
+        "description": "09. ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/フリートーク-2.wav",
+        "name": "フリートーク-2.wav",
+        "description": "10. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "神田 優",
+    "homepage": "https://stay-luck.com/talent/kanda-yuu/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1-Yu-Kanda_ナチュラル.mp3",
+        "name": "1-Yu-Kanda_ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2-Yu-Kanda_気弱.mp3",
+        "name": "2-Yu-Kanda_気弱.mp3",
+        "description": "02. 気弱"
+      },
+      {
+        "url": "http://stay-luck.com/files/3-Yu-Kanda_ストイック.mp3",
+        "name": "3-Yu-Kanda_ストイック.mp3",
+        "description": "03. ストイック"
+      },
+      {
+        "url": "http://stay-luck.com/files/4-Yu-Kanda_20代後半.mp3",
+        "name": "4-Yu-Kanda_20代後半.mp3",
+        "description": "04. 20代後半"
+      },
+      {
+        "url": "http://stay-luck.com/files/5-Yu-Kanda_企業VP.mp3",
+        "name": "5-Yu-Kanda_企業VP.mp3",
+        "description": "05. 企業用ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/6-Yu-Kanda_番組ナレーション.mp3",
+        "name": "6-Yu-Kanda_番組ナレーション.mp3",
+        "description": "06. 番組ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Yu-Kanda_フリートーク.mp3",
+        "name": "Yu-Kanda_フリートーク.mp3",
+        "description": "07. フリートーク"
+      },
+      {
+        "url": "http://stay-luck.com/files/原口様_講談1.mp3",
+        "name": "原口様_講談1.mp3",
+        "description": "08. 講談"
+      }
+    ]
+  },
+  {
+    "name": "金城 大和",
+    "homepage": "https://stay-luck.com/talent/kinjo-yamato/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/情熱的な青年.mp3",
+        "name": "情熱的な青年.mp3",
+        "description": "01. 青年"
+      },
+      {
+        "url": "http://stay-luck.com/files/優しく穏やかな先生.mp3",
+        "name": "優しく穏やかな先生.mp3",
+        "description": "02. 先生"
+      },
+      {
+        "url": "http://stay-luck.com/files/イケメン風mp3.mp3",
+        "name": "イケメン風mp3.mp3",
+        "description": "03. イケメン風"
+      },
+      {
+        "url": "http://stay-luck.com/files/小動物ととぼけたオジさん.mp3",
+        "name": "小動物ととぼけたオジさん.mp3",
+        "description": "04. 小動物とおじさん"
+      },
+      {
+        "url": "http://stay-luck.com/files/狂人.mp3",
+        "name": "狂人.mp3",
+        "description": "05. 狂人"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション.mp3",
+        "name": "ナレーション.mp3",
+        "description": "06. ナレーション1"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション2.mp3",
+        "name": "ナレーション2.mp3",
+        "description": "07. ナレーション2"
+      },
+      {
+        "url": "http://stay-luck.com/files/フリートーク.mp3",
+        "name": "フリートーク.mp3",
+        "description": "08. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "黒田 浩一",
+    "homepage": "https://stay-luck.com/talent/koichi-kuroda/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/①セリフ　優しい医者（30歳）-2.mp3",
+        "name": "①セリフ　優しい医者（30歳）-2.mp3",
+        "description": "01. 30代 優しい医者"
+      },
+      {
+        "url": "http://stay-luck.com/files/④セリフ　ノリの良い大学生-1.mp3",
+        "name": "④セリフ　ノリの良い大学生-1.mp3",
+        "description": "02. ノリの良い大学生"
+      },
+      {
+        "url": "http://stay-luck.com/files/⑥セリフ　真面目な軍人（50代）-2.mp3",
+        "name": "⑥セリフ　真面目な軍人（50代）-2.mp3",
+        "description": "03. 50代 真面目な軍人"
+      },
+      {
+        "url": "http://stay-luck.com/files/⑦セリフ　初老の男性（60代）-2.mp3",
+        "name": "⑦セリフ　初老の男性（60代）-2.mp3",
+        "description": "04. 60代 初老の男性"
+      },
+      {
+        "url": "http://stay-luck.com/files/⑧セリフ　悪役（低音）-2.mp3",
+        "name": "⑧セリフ　悪役（低音）-2.mp3",
+        "description": "05. 悪役(低音)"
+      },
+      {
+        "url": "http://stay-luck.com/files/⑨セリフ　科学者（40代）-2.mp3",
+        "name": "⑨セリフ　科学者（40代）-2.mp3",
+        "description": "06. 40代 科学者"
+      },
+      {
+        "url": "http://stay-luck.com/files/⑫ナレーション　CM-1.mp3",
+        "name": "⑫ナレーション　CM-1.mp3",
+        "description": "07. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/⑬ナレーション　スポーツ番組-1.mp3",
+        "name": "⑬ナレーション　スポーツ番組-1.mp3",
+        "description": "08. ナレーション スポーツ番組"
+      },
+      {
+        "url": "http://stay-luck.com/files/⑯ナレーション　企業VP_2-1.mp3",
+        "name": "⑯ナレーション　企業VP_2-1.mp3",
+        "description": "09. ナレーション 企業VP"
+      },
+      {
+        "url": "http://stay-luck.com/files/フリートーク-8.mp3",
+        "name": "フリートーク-8.mp3",
+        "description": "10. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "沢城 千春",
+    "homepage": "https://stay-luck.com/talent/sawashiro-chiharu/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1-Chiharu-Sawashiro_ナチュラル.mp3",
+        "name": "1-Chiharu-Sawashiro_ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2-Chiharu-Sawashiro_ギャグ.mp3",
+        "name": "2-Chiharu-Sawashiro_ギャグ.mp3",
+        "description": "02. ギャグ"
+      },
+      {
+        "url": "http://stay-luck.com/files/3-Chiharu-Sawashiro_低め.mp3",
+        "name": "3-Chiharu-Sawashiro_低め.mp3",
+        "description": "03. 低め"
+      },
+      {
+        "url": "http://stay-luck.com/files/4-Chiharu-Sawashiro_優しい青年.mp3",
+        "name": "4-Chiharu-Sawashiro_優しい青年.mp3",
+        "description": "04. 優しい青年"
+      },
+      {
+        "url": "http://stay-luck.com/files/5-Chiharu-Sawashiro_気遣う青年.mp3",
+        "name": "5-Chiharu-Sawashiro_気遣う青年.mp3",
+        "description": "05. 気遣う青年"
+      },
+      {
+        "url": "http://stay-luck.com/files/6-Chiharu-Sawashiro_CMナレーション.mp3",
+        "name": "6-Chiharu-Sawashiro_CMナレーション.mp3",
+        "description": "06. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/7-Chiharu-Sawashiro_CMナレーション2.mp3",
+        "name": "7-Chiharu-Sawashiro_CMナレーション2.mp3",
+        "description": "07. CMナレーション2"
+      },
+      {
+        "url": "http://stay-luck.com/files/Chiharu-Sawashiro_freetalk.mp3",
+        "name": "Chiharu-Sawashiro_freetalk.mp3",
+        "description": "08. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "左座 翔丸",
+    "homepage": "https://stay-luck.com/talent/zouza-shoumaru/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Syomaru-Zoza_ナチュラル.mp3",
+        "name": "1Syomaru-Zoza_ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Syomaru-Zoza_ギャグ.mp3",
+        "name": "2Syomaru-Zoza_ギャグ.mp3",
+        "description": "02. ギャグ"
+      },
+      {
+        "url": "http://stay-luck.com/files/3Syomaru-Zoza_武士.mp3",
+        "name": "3Syomaru-Zoza_武士.mp3",
+        "description": "03. 武士"
+      },
+      {
+        "url": "http://stay-luck.com/files/4Shomaru-Zouza_番組ナレーション.mp3",
+        "name": "4Shomaru-Zouza_番組ナレーション.mp3",
+        "description": "04. 番組ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Shomaru-Zouza_番宣ナレーション.mp3",
+        "name": "5Shomaru-Zouza_番宣ナレーション.mp3",
+        "description": "05. 番宣ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Shomaru-Zouza_freetalk.mp3",
+        "name": "Shomaru-Zouza_freetalk.mp3",
+        "description": "06. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "杉山 紀彰",
+    "homepage": "https://stay-luck.com/talent/sugiyama-noriaki/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/Noriaki-Sugiyama_all-voice.mp3",
+        "name": "Noriaki-Sugiyama_all-voice.mp3",
+        "description": "01. ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "橘 龍丸",
+    "homepage": "https://stay-luck.com/talent/tachibana-tatsumaru/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1-Tatsumaru-Tachibana_ナチュラル.mp3",
+        "name": "1-Tatsumaru-Tachibana_ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Tatsumaru-Tachibana_低め.mp3",
+        "name": "2Tatsumaru-Tachibana_低め.mp3",
+        "description": "02. 低め"
+      },
+      {
+        "url": "http://stay-luck.com/files/3-Tatsumaru-Tachibana_優しい少年.mp3",
+        "name": "3-Tatsumaru-Tachibana_優しい少年.mp3",
+        "description": "03. 優しい少年"
+      },
+      {
+        "url": "http://stay-luck.com/files/4-Tatsumaru-Tachibana_軽い男性.mp3",
+        "name": "4-Tatsumaru-Tachibana_軽い男性.mp3",
+        "description": "04. 軽い男性"
+      },
+      {
+        "url": "http://stay-luck.com/files/5-Tatsumaru-Tachibana_青年.mp3",
+        "name": "5-Tatsumaru-Tachibana_青年.mp3",
+        "description": "05. 青年"
+      },
+      {
+        "url": "http://stay-luck.com/files/6-Tatsumaru-Tachibana_舞台調.mp3",
+        "name": "6-Tatsumaru-Tachibana_舞台調.mp3",
+        "description": "06. 舞台調"
+      },
+      {
+        "url": "http://stay-luck.com/files/7-Tatsumaru-Tachibana_番組ナレーション.mp3",
+        "name": "7-Tatsumaru-Tachibana_番組ナレーション.mp3",
+        "description": "07. 番組ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/8-Tatsumaru-Tachibana_番組ナレーション2.mp3",
+        "name": "8-Tatsumaru-Tachibana_番組ナレーション2.mp3",
+        "description": "08. 番組ナレーション2"
+      },
+      {
+        "url": "http://stay-luck.com/files/Tatsumaru-Tachibana_freetalk.mp3",
+        "name": "Tatsumaru-Tachibana_freetalk.mp3",
+        "description": "09. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "虎島 貴明",
+    "homepage": "https://stay-luck.com/talent/torashima-takaaki/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Takaaki-Torashima_ナチュラル.mp3",
+        "name": "1Takaaki-Torashima_ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Takaaki-Torashima_弱気.mp3",
+        "name": "2Takaaki-Torashima_弱気.mp3",
+        "description": "02. 弱気"
+      },
+      {
+        "url": "http://stay-luck.com/files/3Takaaki-Torashima_キャラモノ.mp3",
+        "name": "3Takaaki-Torashima_キャラモノ.mp3",
+        "description": "03. キャラモノ"
+      },
+      {
+        "url": "http://stay-luck.com/files/4Takaaki-Torashima_青年.mp3",
+        "name": "4Takaaki-Torashima_青年.mp3",
+        "description": "04. 青年"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Takaaki-Torashima_おじいさん.mp3",
+        "name": "5Takaaki-Torashima_おじいさん.mp3",
+        "description": "05. おじいさん"
+      },
+      {
+        "url": "http://stay-luck.com/files/6Takaaki-Torashima_番組ナレーション1.mp3",
+        "name": "6Takaaki-Torashima_番組ナレーション1.mp3",
+        "description": "06. 番組ナレーション1"
+      },
+      {
+        "url": "http://stay-luck.com/files/7Takaaki-Torashima_番組ナレーション2.mp3",
+        "name": "7Takaaki-Torashima_番組ナレーション2.mp3",
+        "description": "07. 番組ナレーション2"
+      },
+      {
+        "url": "http://stay-luck.com/files/8Takaaki-Torashima_番組ナレーション3.mp3",
+        "name": "8Takaaki-Torashima_番組ナレーション3.mp3",
+        "description": "08. 番組ナレーション3"
+      },
+      {
+        "url": "http://stay-luck.com/files/9Takaaki-Torashima_キャラナレーション.mp3",
+        "name": "9Takaaki-Torashima_キャラナレーション.mp3",
+        "description": "09. キャラナレーション"
+      }
+    ]
+  },
+  {
+    "name": "浪川 大輔",
+    "homepage": "https://stay-luck.com/talent/namikawa-daisuke/",
+    "sex": "Male",
+    "voices": []
+  },
+  {
+    "name": "野津山 幸宏",
+    "homepage": "https://stay-luck.com/talent/nozuyama-yukihiro/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/大学生-1.mp3",
+        "name": "大学生-1.mp3",
+        "description": "01. 大学生"
+      },
+      {
+        "url": "http://stay-luck.com/files/後輩.mp3",
+        "name": "後輩.mp3",
+        "description": "02. 後輩"
+      },
+      {
+        "url": "http://stay-luck.com/files/不良.mp3",
+        "name": "不良.mp3",
+        "description": "03. 不良"
+      },
+      {
+        "url": "http://stay-luck.com/files/ムードメーカー.mp3",
+        "name": "ムードメーカー.mp3",
+        "description": "04. ムードメーカー"
+      },
+      {
+        "url": "http://stay-luck.com/files/弁護士.mp3",
+        "name": "弁護士.mp3",
+        "description": "05. 弁護士"
+      },
+      {
+        "url": "http://stay-luck.com/files/お好み焼き屋さん.mp3",
+        "name": "お好み焼き屋さん.mp3",
+        "description": "06. お好み焼き屋さん"
+      },
+      {
+        "url": "http://stay-luck.com/files/外画-30代.mp3",
+        "name": "外画-30代.mp3",
+        "description": "07. 外画 30代"
+      },
+      {
+        "url": "http://stay-luck.com/files/TVナレーション.mp3",
+        "name": "TVナレーション.mp3",
+        "description": "08. TVナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/CMナレーション.mp3",
+        "name": "CMナレーション.mp3",
+        "description": "09. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/フリートーク-5.mp3",
+        "name": "フリートーク-5.mp3",
+        "description": "10. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "晴一ユウ",
+    "homepage": "https://stay-luck.com/talent/haruichi-yu/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1.-陽気な青年.mp3",
+        "name": "1.-陽気な青年.mp3",
+        "description": "01. 陽気な青年"
+      },
+      {
+        "url": "http://stay-luck.com/files/2.-ガタイのいい男.mp3",
+        "name": "2.-ガタイのいい男.mp3",
+        "description": "02. ガタイのいい男"
+      },
+      {
+        "url": "http://stay-luck.com/files/3.-30代刑事.mp3",
+        "name": "3.-30代刑事.mp3",
+        "description": "03. 30代刑事"
+      },
+      {
+        "url": "http://stay-luck.com/files/4.-50代嫌味な上司.mp3",
+        "name": "4.-50代嫌味な上司.mp3",
+        "description": "04. 50代嫌味な上司"
+      },
+      {
+        "url": "http://stay-luck.com/files/5.-気弱な大学生.mp3",
+        "name": "5.-気弱な大学生.mp3",
+        "description": "05. 気弱な大学生"
+      },
+      {
+        "url": "http://stay-luck.com/files/6.-土佐弁.mp3",
+        "name": "6.-土佐弁.mp3",
+        "description": "06. 土佐弁"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション　企業系.mp3",
+        "name": "ナレーション　企業系.mp3",
+        "description": "07. ナレーション 企業系"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション　商品紹介.mp3",
+        "name": "ナレーション　商品紹介.mp3",
+        "description": "08. ナレーション 商品紹介"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション　番組紹介.mp3",
+        "name": "ナレーション　番組紹介.mp3",
+        "description": "09. ナレーション 番組紹介"
+      },
+      {
+        "url": "http://stay-luck.com/files/フリートーク-13.mp3",
+        "name": "フリートーク-13.mp3",
+        "description": "10. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "廣庭 渓斗",
+    "homepage": "https://stay-luck.com/talent/hironiwa-keito/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1.黄昏る青年.wav",
+        "name": "1.黄昏る青年.wav",
+        "description": "01. 黄昏る青年"
+      },
+      {
+        "url": "http://stay-luck.com/files/2.お調子者.wav",
+        "name": "2.お調子者.wav",
+        "description": "02. お調子者"
+      },
+      {
+        "url": "http://stay-luck.com/files/3.不気味な紳士.wav",
+        "name": "3.不気味な紳士.wav",
+        "description": "03. 不気味な紳士"
+      },
+      {
+        "url": "http://stay-luck.com/files/4.元気な後輩.wav",
+        "name": "4.元気な後輩.wav",
+        "description": "04. 元気な後輩"
+      },
+      {
+        "url": "http://stay-luck.com/files/5.皮肉屋な少年.wav",
+        "name": "5.皮肉屋な少年.wav",
+        "description": "05. 皮肉屋な少年"
+      },
+      {
+        "url": "http://stay-luck.com/files/6.刑事.wav",
+        "name": "6.刑事.wav",
+        "description": "06. 刑事"
+      },
+      {
+        "url": "http://stay-luck.com/files/7.ナレーション_ナチュラル系.wav",
+        "name": "7.ナレーション_ナチュラル系.wav",
+        "description": "07. ナレーション ナチュラル系"
+      },
+      {
+        "url": "http://stay-luck.com/files/8.番組ナレーション.wav",
+        "name": "8.番組ナレーション.wav",
+        "description": "08. 番組ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/9.フリートーク-1.wav",
+        "name": "9.フリートーク-1.wav",
+        "description": "09. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "藤原 聖侑",
+    "homepage": "https://stay-luck.com/talent/fujiwara-seiyu/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/4Seyu-Fujiwara_高校生.mp3",
+        "name": "4Seyu-Fujiwara_高校生.mp3",
+        "description": "01. 高校生"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Seyu-Fujiwara_20代後半.mp3",
+        "name": "5Seyu-Fujiwara_20代後半.mp3",
+        "description": "02. 20代後半"
+      },
+      {
+        "url": "http://stay-luck.com/files/3Seyu-Fujiwara_ボス風.mp3",
+        "name": "3Seyu-Fujiwara_ボス風.mp3",
+        "description": "03. ボス風"
+      },
+      {
+        "url": "http://stay-luck.com/files/1Seyu-Fujiwara_おどおど.mp3",
+        "name": "1Seyu-Fujiwara_おどおど.mp3",
+        "description": "04. おどおど"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Seyu-Fujiwara_復讐.mp3",
+        "name": "2Seyu-Fujiwara_復讐.mp3",
+        "description": "05. 復讐"
+      },
+      {
+        "url": "http://stay-luck.com/files/6Seiyu-Fujiwara_番組ナレーション.mp3",
+        "name": "6Seiyu-Fujiwara_番組ナレーション.mp3",
+        "description": "06. 番組ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/7Seiyu-Fujiwara_番組ナレーション2.mp3",
+        "name": "7Seiyu-Fujiwara_番組ナレーション2.mp3",
+        "description": "07. 番組ナレーション2"
+      },
+      {
+        "url": "http://stay-luck.com/files/8Seiyu-Fujiwara_CMナレーション.mp3",
+        "name": "8Seiyu-Fujiwara_CMナレーション.mp3",
+        "description": "08. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/9Seiyu-Fujiwara_CMナレーション.mp3",
+        "name": "9Seiyu-Fujiwara_CMナレーション.mp3",
+        "description": "09. CMナレーション2"
+      },
+      {
+        "url": "http://stay-luck.com/files/Seiyu-Fujiwara_freetalk.mp3",
+        "name": "Seiyu-Fujiwara_freetalk.mp3",
+        "description": "10. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "真白 健太朗",
+    "homepage": "https://stay-luck.com/talent/mashiro-kentaro/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/②ナチュラル.mp3",
+        "name": "②ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/③優しい雰囲気の青年.mp3",
+        "name": "③優しい雰囲気の青年.mp3",
+        "description": "02. 穏やかな青年"
+      },
+      {
+        "url": "http://stay-luck.com/files/⑦性格悪いカースト上位種B.mp3",
+        "name": "⑦性格悪いカースト上位種B.mp3",
+        "description": "03. 不良学生"
+      },
+      {
+        "url": "http://stay-luck.com/files/⑨元気系リーダー.mp3",
+        "name": "⑨元気系リーダー.mp3",
+        "description": "04. スポーツマン"
+      },
+      {
+        "url": "http://stay-luck.com/files/④明るい元気っ子.mp3",
+        "name": "④明るい元気っ子.mp3",
+        "description": "05. 元気"
+      },
+      {
+        "url": "http://stay-luck.com/files/⑤ちょっと変なキャラ.mp3",
+        "name": "⑤ちょっと変なキャラ.mp3",
+        "description": "06. 悪役"
+      },
+      {
+        "url": "http://stay-luck.com/files/⑩勇ましい.mp3",
+        "name": "⑩勇ましい.mp3",
+        "description": "07. バトルファンタジー"
+      },
+      {
+        "url": "http://stay-luck.com/files/⑪一番低い声.mp3",
+        "name": "⑪一番低い声.mp3",
+        "description": "08. 低音"
+      },
+      {
+        "url": "http://stay-luck.com/files/⑧ナレーション.mp3",
+        "name": "⑧ナレーション.mp3",
+        "description": "09. CMナレーション"
+      }
+    ]
+  },
+  {
+    "name": "水上歩夢",
+    "homepage": "https://stay-luck.com/talent/mizukami-ayumu/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1．ナチュラル-1.mp3",
+        "name": "1．ナチュラル-1.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2．青年ヒール.mp3",
+        "name": "2．青年ヒール.mp3",
+        "description": "02. 青年(ヒール)"
+      },
+      {
+        "url": "http://stay-luck.com/files/3．少年.mp3",
+        "name": "3．少年.mp3",
+        "description": "03. 少年"
+      },
+      {
+        "url": "http://stay-luck.com/files/4．青年熱血.mp3",
+        "name": "4．青年熱血.mp3",
+        "description": "04. 青年(熱血)"
+      },
+      {
+        "url": "http://stay-luck.com/files/5．青年低音.mp3",
+        "name": "5．青年低音.mp3",
+        "description": "05. 青年(低音)"
+      },
+      {
+        "url": "http://stay-luck.com/files/6．青年陽気.mp3",
+        "name": "6．青年陽気.mp3",
+        "description": "06. 青年(陽気)"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション①-2.mp3",
+        "name": "ナレーション①-2.mp3",
+        "description": "07. ナレーション①"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション②-2.mp3",
+        "name": "ナレーション②-2.mp3",
+        "description": "08. ナレーション②"
+      },
+      {
+        "url": "http://stay-luck.com/files/フリートーク-12.mp3",
+        "name": "フリートーク-12.mp3",
+        "description": "09. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "村井 雄治",
+    "homepage": "https://stay-luck.com/talent/murai-yuji/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Yuji-Murai_ナチュラル.mp3",
+        "name": "1Yuji-Murai_ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Yuji-Murai_優しい青年.mp3",
+        "name": "2Yuji-Murai_優しい青年.mp3",
+        "description": "02. 優しい青年"
+      },
+      {
+        "url": "http://stay-luck.com/files/3Yuji-Murai_ギャグ.mp3",
+        "name": "3Yuji-Murai_ギャグ.mp3",
+        "description": "03. ギャグ"
+      },
+      {
+        "url": "http://stay-luck.com/files/4Yuji-Murai_お調子者.mp3",
+        "name": "4Yuji-Murai_お調子者.mp3",
+        "description": "04. お調子者"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Yuji-Murai_低い.mp3",
+        "name": "5Yuji-Murai_低い.mp3",
+        "description": "05. 低め"
+      },
+      {
+        "url": "http://stay-luck.com/files/6Yuji-Murai_おじいさん.mp3",
+        "name": "6Yuji-Murai_おじいさん.mp3",
+        "description": "06. おじいさん"
+      },
+      {
+        "url": "http://stay-luck.com/files/7Yuji-Murai_CMナレーション.mp3",
+        "name": "7Yuji-Murai_CMナレーション.mp3",
+        "description": "07. CMナレーション"
+      },
+      {
+        "url": " http://stay-luck.com/files/8Yuji-Murai_企業ナレーション.mp3",
+        "name": "8Yuji-Murai_企業ナレーション.mp3",
+        "description": "08. 企業ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Yuji-Murai_freetalk.mp3",
+        "name": "Yuji-Murai_freetalk.mp3",
+        "description": "09. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "山下 タイキ",
+    "homepage": "https://stay-luck.com/talent/yamashita-taiki/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Taiki-Yamashita_ナチュラル.mp3",
+        "name": "1Taiki-Yamashita_ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Taiki-Yamashita_おじいさん.mp3",
+        "name": "2Taiki-Yamashita_おじいさん.mp3",
+        "description": "02. おじいさん"
+      },
+      {
+        "url": "http://stay-luck.com/files/3Taiki-Yamashita_ギャグ.mp3",
+        "name": "3Taiki-Yamashita_ギャグ.mp3",
+        "description": "03. ギャグ1"
+      },
+      {
+        "url": "http://stay-luck.com/files/4Taiki-Yamashita_ギャグ2.mp3",
+        "name": "4Taiki-Yamashita_ギャグ2.mp3",
+        "description": "04. ギャグ2"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Taiki-Yamashita_博識なおじいさん.mp3",
+        "name": "5Taiki-Yamashita_博識なおじいさん.mp3",
+        "description": "05. 博識なおじいさん"
+      },
+      {
+        "url": "http://stay-luck.com/files/6Taiki-Yamashita_巨漢.mp3",
+        "name": "6Taiki-Yamashita_巨漢.mp3",
+        "description": "06. 巨漢"
+      },
+      {
+        "url": "http://stay-luck.com/files/7Taiki-Yamashita_企業ナレーション.mp3",
+        "name": "7Taiki-Yamashita_企業ナレーション.mp3",
+        "description": "07. 企業ナレーション"
+      }
+    ]
+  },
+  {
+    "name": "山本 祐也",
+    "homepage": "https://stay-luck.com/talent/yamamoto-yuuya/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1-Yuya-Yamamoto_高校生.mp3",
+        "name": "1-Yuya-Yamamoto_高校生.mp3",
+        "description": "01. 高校生"
+      },
+      {
+        "url": "http://stay-luck.com/files/2-Yuya-Yamamoto_ギャグ.mp3",
+        "name": "2-Yuya-Yamamoto_ギャグ.mp3",
+        "description": "02. ギャグ"
+      },
+      {
+        "url": "http://stay-luck.com/files/3-Yuya-Yamamoto_天才肌.mp3",
+        "name": "3-Yuya-Yamamoto_天才肌.mp3",
+        "description": "03. 天才肌"
+      },
+      {
+        "url": "http://stay-luck.com/files/4-Yuya-Yamamoto_番組ナレーション.mp3",
+        "name": "4-Yuya-Yamamoto_番組ナレーション.mp3",
+        "description": "04. 番組ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/5-Yuya-Yamamoto_CMナレーション.mp3",
+        "name": "5-Yuya-Yamamoto_CMナレーション.mp3",
+        "description": "05. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Yuya-Yamamoto_フリートーク.mp3",
+        "name": "Yuya-Yamamoto_フリートーク.mp3",
+        "description": "06. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "吉田 和生",
+    "homepage": "https://stay-luck.com/talent/yoshida-kazuki/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Kazuki-Yoshida_スポーツマン.mp3",
+        "name": "1Kazuki-Yoshida_スポーツマン.mp3",
+        "description": "01. スポーツマン"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Kazuki-Yoshida_20代後半.mp3",
+        "name": "2Kazuki-Yoshida_20代後半.mp3",
+        "description": "02. 20代後半"
+      },
+      {
+        "url": "http://stay-luck.com/files/3Kazuki-Yoshida_50代.mp3",
+        "name": "3Kazuki-Yoshida_50代.mp3",
+        "description": "03. 50代"
+      },
+      {
+        "url": "http://stay-luck.com/files/4Kazuki-Yoshida_30代半ば.mp3",
+        "name": "4Kazuki-Yoshida_30代半ば.mp3",
+        "description": "04. 30代半ば"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Kazuki-Yoshida_CMナレーション1.mp3",
+        "name": "5Kazuki-Yoshida_CMナレーション1.mp3",
+        "description": "05. CMナレーション１"
+      },
+      {
+        "url": "http://stay-luck.com/files/6Kazuki-Yoshida_CMナレーション2.mp3",
+        "name": "6Kazuki-Yoshida_CMナレーション2.mp3",
+        "description": "06. CMナレーション２"
+      },
+      {
+        "url": "http://stay-luck.com/files/Kazuki-Yoshida_freetalk.mp3",
+        "name": "Kazuki-Yoshida_freetalk.mp3",
+        "description": "07. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "佐伯 ユウスケ(業務提携)",
+    "homepage": "https://stay-luck.com/talent/saeki-yusuke/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/気をつかう音楽家.mp3",
+        "name": "気をつかう音楽家.mp3",
+        "description": "01. 気をつかう音楽家"
+      },
+      {
+        "url": "http://stay-luck.com/files/青年.mp3",
+        "name": "青年.mp3",
+        "description": "02. 青年"
+      },
+      {
+        "url": "http://stay-luck.com/files/正義感の強い青年.mp3",
+        "name": "正義感の強い青年.mp3",
+        "description": "03. 正義感の強い青年"
+      },
+      {
+        "url": "http://stay-luck.com/files/朗読風.mp3",
+        "name": "朗読風.mp3",
+        "description": "04. 朗読風"
+      },
+      {
+        "url": "http://stay-luck.com/files/佐伯ナレーション１.mp3",
+        "name": "佐伯ナレーション１.mp3",
+        "description": "05. ナレーション1"
+      },
+      {
+        "url": "http://stay-luck.com/files/佐伯ナレーション２.mp3",
+        "name": "佐伯ナレーション２.mp3",
+        "description": "06. ナレーション2"
+      },
+      {
+        "url": "http://stay-luck.com/files/佐伯ユウスケ_フリートーク.mp3",
+        "name": "佐伯ユウスケ_フリートーク.mp3",
+        "description": "07. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "逢沢 ゆりか",
+    "homepage": "https://stay-luck.com/talent/aizawa-yurika/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Yurika-Aizawa_10代女の子.mp3",
+        "name": "1Yurika-Aizawa_10代女の子.mp3",
+        "description": "01. 10代女の子"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Yurika-Aizawa_上司.mp3",
+        "name": "2Yurika-Aizawa_上司.mp3",
+        "description": "02. 上司"
+      },
+      {
+        "url": "http://stay-luck.com/files/3Yurika-Aizawa_強気.mp3",
+        "name": "3Yurika-Aizawa_強気.mp3",
+        "description": "03. 強気"
+      },
+      {
+        "url": "http://stay-luck.com/files/4Yurika-Aizawa_ロリ.mp3",
+        "name": "4Yurika-Aizawa_ロリ.mp3",
+        "description": "04. ロリ"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Yurika-Aizawa_慌ただしい.mp3",
+        "name": "5Yurika-Aizawa_慌ただしい.mp3",
+        "description": "05. 慌ただしい"
+      },
+      {
+        "url": "http://stay-luck.com/files/6Yurika-Aizawa_ギャグ.mp3",
+        "name": "6Yurika-Aizawa_ギャグ.mp3",
+        "description": "06. ギャグ"
+      },
+      {
+        "url": "http://stay-luck.com/files/7Yurika-Aizawa_少年.mp3",
+        "name": "7Yurika-Aizawa_少年.mp3",
+        "description": "07. 少年"
+      },
+      {
+        "url": "http://stay-luck.com/files/8Yurika-Aizawa_番組ナレーション.mp3",
+        "name": "8Yurika-Aizawa_番組ナレーション.mp3",
+        "description": "08. 番組ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/9Yurika-Aizawa_番宣ナレーション.mp3",
+        "name": "9Yurika-Aizawa_番宣ナレーション.mp3",
+        "description": "09. 番宣ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/10Yurika-Aizawa_CMナレーション.mp3",
+        "name": "10Yurika-Aizawa_CMナレーション.mp3",
+        "description": "10. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Yurika-Aizawa_freetalk.mp3",
+        "name": "Yurika-Aizawa_freetalk.mp3",
+        "description": "11. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "藍田 紗矢華",
+    "homepage": "https://stay-luck.com/talent/aida-sayaka/",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1-Sayaka-Aida_女子高生.mp3",
+        "name": "1-Sayaka-Aida_女子高生.mp3",
+        "description": "01. 女子高生"
+      },
+      {
+        "url": "http://stay-luck.com/files/2-Sayaka-Aida_明るい.mp3",
+        "name": "2-Sayaka-Aida_明るい.mp3",
+        "description": "02. 明るい"
+      },
+      {
+        "url": "http://stay-luck.com/files/3-Sayaka-Aida_気弱.mp3",
+        "name": "3-Sayaka-Aida_気弱.mp3",
+        "description": "03. 気弱"
+      },
+      {
+        "url": "http://stay-luck.com/files/4-Sayaka-Aida_中学生.mp3",
+        "name": "4-Sayaka-Aida_中学生.mp3",
+        "description": "04. 中学生"
+      },
+      {
+        "url": "http://stay-luck.com/files/5-Sayaka-Aida_ギャグ.mp3",
+        "name": "5-Sayaka-Aida_ギャグ.mp3",
+        "description": "05. ギャグ"
+      },
+      {
+        "url": "http://stay-luck.com/files/6-Sayaka-Aida_CMナレーション.mp3",
+        "name": "6-Sayaka-Aida_CMナレーション.mp3",
+        "description": "06. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/7-Sayaka-Aida_ドキュメンタリー.mp3",
+        "name": "7-Sayaka-Aida_ドキュメンタリー.mp3",
+        "description": "07. ドキュメンタリー"
+      },
+      {
+        "url": "http://stay-luck.com/files/藍田様_8_入浴剤CM_a.mp3",
+        "name": "藍田様_8_入浴剤CM_a.mp3",
+        "description": "08. CMナレーション2"
+      },
+      {
+        "url": "http://stay-luck.com/files/Sayaka-Aida_フリートーク.mp3",
+        "name": "Sayaka-Aida_フリートーク.mp3",
+        "description": "09. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "綾瀬 みゆう",
+    "homepage": "https://stay-luck.com/talent/ayase-miyuu/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Miyu-Ayase_女子高校生.mp3",
+        "name": "1Miyu-Ayase_女子高校生.mp3",
+        "description": "01. 女子高校生"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Miyu-Ayase_真面目.mp3",
+        "name": "2Miyu-Ayase_真面目.mp3",
+        "description": "02. 真面目"
+      },
+      {
+        "url": "http://stay-luck.com/files/3Miyu-Ayase_オドオド.mp3",
+        "name": "3Miyu-Ayase_オドオド.mp3",
+        "description": "03. オドオド"
+      },
+      {
+        "url": "http://stay-luck.com/files/4Miyu-Ayase_ツンデレ.mp3",
+        "name": "4Miyu-Ayase_ツンデレ.mp3",
+        "description": "04. ツンデレ"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Miyu-Ayase_子供.mp3",
+        "name": "5Miyu-Ayase_子供.mp3",
+        "description": "05. 子供"
+      },
+      {
+        "url": "http://stay-luck.com/files/6Miyu-Ayase_CMナレーション.mp3",
+        "name": "6Miyu-Ayase_CMナレーション.mp3",
+        "description": "06. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Miyuu-Ayase_freetalk.mp3",
+        "name": "Miyuu-Ayase_freetalk.mp3",
+        "description": "07. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "伊藤 さや香",
+    "homepage": "https://stay-luck.com/talent/ito-sayaka/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1．ナチュラル.mp3",
+        "name": "1．ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2．30代-女性.mp3",
+        "name": "2．30代-女性.mp3",
+        "description": "02. 30代 女性"
+      },
+      {
+        "url": "http://stay-luck.com/files/3．10代-女性.mp3",
+        "name": "3．10代-女性.mp3",
+        "description": "03. 10代 女性"
+      },
+      {
+        "url": "http://stay-luck.com/files/4．少年.mp3",
+        "name": "4．少年.mp3",
+        "description": "04. 少年"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション①.mp3",
+        "name": "ナレーション①.mp3",
+        "description": "05. ナレーション①"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション②.mp3",
+        "name": "ナレーション②.mp3",
+        "description": "06. ナレーション②"
+      },
+      {
+        "url": "http://stay-luck.com/files/フリートーク-10.mp3",
+        "name": "フリートーク-10.mp3",
+        "description": "07. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "折井 あゆみ",
+    "homepage": "https://stay-luck.com/talent/orii-ayumi/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/セリフ１　ナチュラル.mp3",
+        "name": "セリフ１　ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/セリフ２　強気.mp3",
+        "name": "セリフ２　強気.mp3",
+        "description": "02. 強気"
+      },
+      {
+        "url": "http://stay-luck.com/files/セリフ３　優しいお姉さん-1.mp3",
+        "name": "セリフ３　優しいお姉さん-1.mp3",
+        "description": "03. 優しいお姉さん"
+      },
+      {
+        "url": "http://stay-luck.com/files/セリフ４　サイコパス-1.mp3",
+        "name": "セリフ４　サイコパス-1.mp3",
+        "description": "04. サイコパス"
+      },
+      {
+        "url": "http://stay-luck.com/files/セリフ５　クール-1.mp3",
+        "name": "セリフ５　クール-1.mp3",
+        "description": "05. クール"
+      },
+      {
+        "url": "http://stay-luck.com/files/セリフ６　青年-1.mp3",
+        "name": "セリフ６　青年-1.mp3",
+        "description": "06. 青年"
+      },
+      {
+        "url": "http://stay-luck.com/files/番組ナレーション.mp3",
+        "name": "番組ナレーション.mp3",
+        "description": "07. 番組ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/cmナレーション.mp3",
+        "name": "cmナレーション.mp3",
+        "description": "08. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/企業ナレーション.mp3",
+        "name": "企業ナレーション.mp3",
+        "description": "09. 企業ナレーション"
+      },
+      {
+        "url": " http://stay-luck.com/files/フリートーク-4.mp3",
+        "name": "フリートーク-4.mp3",
+        "description": "10. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "和 優希",
+    "homepage": "https://stay-luck.com/talent/kazu-yuki/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1.-恋を引きずる女性.wav",
+        "name": "1.-恋を引きずる女性.wav",
+        "description": "01. 恋を引きずる女性"
+      },
+      {
+        "url": "http://stay-luck.com/files/2.-奔放な女性.wav",
+        "name": "2.-奔放な女性.wav",
+        "description": "02. 奔放な女性"
+      },
+      {
+        "url": "http://stay-luck.com/files/3.-雑草魂.wav",
+        "name": "3.-雑草魂.wav",
+        "description": "03. 雑草魂"
+      },
+      {
+        "url": "http://stay-luck.com/files/4.-20代教師.wav",
+        "name": "4.-20代教師.wav",
+        "description": "04. 20代教師"
+      },
+      {
+        "url": "http://stay-luck.com/files/5.-男の子.wav",
+        "name": "5.-男の子.wav",
+        "description": "05. 男の子"
+      },
+      {
+        "url": "http://stay-luck.com/files/6.-悪女.wav",
+        "name": "6.-悪女.wav",
+        "description": "06. 悪女"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション　インフォマーシャル.wav",
+        "name": "ナレーション　インフォマーシャル.wav",
+        "description": "07. ナレーション インフォマーシャル"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション　ストレート.wav",
+        "name": "ナレーション　ストレート.wav",
+        "description": "08. ナレーション ストレート"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション　化粧品CM.wav",
+        "name": "ナレーション　化粧品CM.wav",
+        "description": "09. ナレーション 化粧品CM"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション　企業VP.wav",
+        "name": "ナレーション　企業VP.wav",
+        "description": "10. ナレーション 企業VP"
+      }
+    ]
+  },
+  {
+    "name": "萱間 円佳",
+    "homepage": "https://stay-luck.com/talent/kayama-madoka/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1-Madoka-Kayama_少年.mp3",
+        "name": "1-Madoka-Kayama_少年.mp3",
+        "description": "01. 少年"
+      },
+      {
+        "url": "http://stay-luck.com/files/2-Madoka-Kayama_おばさん.mp3",
+        "name": "2-Madoka-Kayama_おばさん.mp3",
+        "description": "02. おばさん"
+      },
+      {
+        "url": "http://stay-luck.com/files/3-Madoka-Kayama_元気.mp3",
+        "name": "3-Madoka-Kayama_元気.mp3",
+        "description": "03. 元気"
+      },
+      {
+        "url": "http://stay-luck.com/files/4-Madoka-Kayama_真面目.mp3",
+        "name": "4-Madoka-Kayama_真面目.mp3",
+        "description": "04. 真面目"
+      },
+      {
+        "url": "http://stay-luck.com/files/5-Madoka-Kayama_商品ナレーション.mp3",
+        "name": "5-Madoka-Kayama_商品ナレーション.mp3",
+        "description": "05. 商品ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/6-Madoka-Kayama_CMナレーション.mp3",
+        "name": "6-Madoka-Kayama_CMナレーション.mp3",
+        "description": "06. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Madoka-Kayama＿フリートーク.mp3",
+        "name": "Madoka-Kayama＿フリートーク.mp3",
+        "description": "07. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "烏田 麻衣",
+    "homepage": "https://stay-luck.com/talent/karasuda-mai/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/１．ナチュラル.mp3",
+        "name": "１．ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2．姉御肌.mp3",
+        "name": "2．姉御肌.mp3",
+        "description": "02. 姉御肌"
+      },
+      {
+        "url": "http://stay-luck.com/files/3．高飛車.mp3",
+        "name": "3．高飛車.mp3",
+        "description": "03. 高飛車"
+      },
+      {
+        "url": "http://stay-luck.com/files/4．30代-女性.mp3",
+        "name": "4．30代-女性.mp3",
+        "description": "04. 30代 女性"
+      },
+      {
+        "url": "http://stay-luck.com/files/5．女性老け.mp3",
+        "name": "5．女性老け.mp3",
+        "description": "05. 女性老け"
+      },
+      {
+        "url": "http://stay-luck.com/files/7．少年.mp3",
+        "name": "7．少年.mp3",
+        "description": "06. 少年"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション①-1.mp3",
+        "name": "ナレーション①-1.mp3",
+        "description": "07. ナレーション①"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション②-1.mp3",
+        "name": "ナレーション②-1.mp3",
+        "description": "08. ナレーション②"
+      },
+      {
+        "url": "http://stay-luck.com/files/フリートーク-11.mp3",
+        "name": "フリートーク-11.mp3",
+        "description": "09. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "川村 海乃",
+    "homepage": "https://stay-luck.com/talent/kawamura-umino/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/セリフ①ナチュラル.wav",
+        "name": "セリフ①ナチュラル.wav",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/セリフ②10代ませガキ少女.wav",
+        "name": "セリフ②10代ませガキ少女.wav",
+        "description": "02. 10代元気系"
+      },
+      {
+        "url": "http://stay-luck.com/files/セリフ⑥10代後半（クール系）.wav",
+        "name": "セリフ⑥10代後半（クール系）.wav",
+        "description": "03. 10代後半クール系"
+      },
+      {
+        "url": "http://stay-luck.com/files/セリフ④20代前半女の子（西洋系）.wav",
+        "name": "セリフ④20代前半女の子（西洋系）.wav",
+        "description": "04. 20代前半"
+      },
+      {
+        "url": "http://stay-luck.com/files/セリフ⑤20代女性（姉系）.wav",
+        "name": "セリフ⑤20代女性（姉系）.wav",
+        "description": "05. 20代お姉さん"
+      },
+      {
+        "url": "http://stay-luck.com/files/セリフ⑦ツンデレお姉さん.wav",
+        "name": "セリフ⑦ツンデレお姉さん.wav",
+        "description": "06. ツンデレお姉さん"
+      },
+      {
+        "url": "http://stay-luck.com/files/NA①企業向けの緩めナレーション.wav",
+        "name": "NA①企業向けの緩めナレーション.wav",
+        "description": "07. 企業向けナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/NA②キラキラファッション誌ナレーション.wav",
+        "name": "NA②キラキラファッション誌ナレーション.wav",
+        "description": "08. 元気系ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/NA③番宣ナレーション.wav",
+        "name": "NA③番宣ナレーション.wav",
+        "description": "09. 番宣ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/フリートーク-1.wav",
+        "name": "フリートーク-1.wav",
+        "description": "10. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "木南 亜莉沙",
+    "homepage": "https://stay-luck.com/talent/kinami-arisa/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Arisa-Kinami_OL.mp3",
+        "name": "1Arisa-Kinami_OL.mp3",
+        "description": "01. OL"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Arisa-Kinami_女子高生.mp3",
+        "name": "2Arisa-Kinami_女子高生.mp3",
+        "description": "02. 女子高生"
+      },
+      {
+        "url": "http://stay-luck.com/files/3Arisa-Kinami_後輩女子.mp3",
+        "name": "3Arisa-Kinami_後輩女子.mp3",
+        "description": "03. 後輩女子"
+      },
+      {
+        "url": "http://stay-luck.com/files/4Arisa-Kinami_警察官.mp3",
+        "name": "4Arisa-Kinami_警察官.mp3",
+        "description": "04. 警察官"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Arisa-Kinami_ナレーション.mp3",
+        "name": "5Arisa-Kinami_ナレーション.mp3",
+        "description": "05. ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Arisa-Kinami_freetalk.mp3",
+        "name": "Arisa-Kinami_freetalk.mp3",
+        "description": "06. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "久保 ユリカ",
+    "homepage": "https://stay-luck.com/talent/kubo-yurika/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1-Yurika-Kubo_ナチュラル.mp3",
+        "name": "1-Yurika-Kubo_ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2-Yurika-Kubo_優しい少女.mp3",
+        "name": "2-Yurika-Kubo_優しい少女.mp3",
+        "description": "02. 優しい少女"
+      },
+      {
+        "url": "http://stay-luck.com/files/3-Yurika-Kubo_関西弁.mp3",
+        "name": "3-Yurika-Kubo_関西弁.mp3",
+        "description": "03. 関西弁"
+      },
+      {
+        "url": "http://stay-luck.com/files/4-Yurika-Kubo_嫌がる女の子.mp3",
+        "name": "4-Yurika-Kubo_嫌がる女の子.mp3",
+        "description": "04. 嫌がる女の子"
+      },
+      {
+        "url": "http://stay-luck.com/files/5-Yurika-Kubo_元気な女の子.mp3",
+        "name": "5-Yurika-Kubo_元気な女の子.mp3",
+        "description": "05. 元気な女の子"
+      },
+      {
+        "url": "http://stay-luck.com/files/6-Yurika-Kubo_ツンデレ.mp3",
+        "name": "6-Yurika-Kubo_ツンデレ.mp3",
+        "description": "06. ツンデレ"
+      },
+      {
+        "url": "http://stay-luck.com/files/7-Yurika-Kubo_少女.mp3",
+        "name": "7-Yurika-Kubo_少女.mp3",
+        "description": "07. 少女"
+      },
+      {
+        "url": "http://stay-luck.com/files/8-Yurika-Kubo_番宣バレーション.mp3",
+        "name": "8-Yurika-Kubo_番宣バレーション.mp3",
+        "description": "08. 番宣ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/9-Yurika-Kubo_番宣ナレーション2.mp3",
+        "name": "9-Yurika-Kubo_番宣ナレーション2.mp3",
+        "description": "09. 番宣ナレーション2"
+      },
+      {
+        "url": "http://stay-luck.com/files/10-Yurika-Kubo_番組ナレーション.mp3",
+        "name": "10-Yurika-Kubo_番組ナレーション.mp3",
+        "description": "10. 番組ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Yurika-Kubo_freetalk.mp3",
+        "name": "Yurika-Kubo_freetalk.mp3",
+        "description": "11. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "粂 ゆうな",
+    "homepage": "https://stay-luck.com/talent/kume-yuna/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1.-女性20代ナチュラル）.mp3",
+        "name": "1.-女性20代ナチュラル）.mp3",
+        "description": "01. 女性20代(ナチュラル)"
+      },
+      {
+        "url": "http://stay-luck.com/files/2.-女性20代.mp3",
+        "name": "2.-女性20代.mp3",
+        "description": "02. 女性20代"
+      },
+      {
+        "url": "http://stay-luck.com/files/3.-高校生.mp3",
+        "name": "3.-高校生.mp3",
+        "description": "03. 高校生"
+      },
+      {
+        "url": "http://stay-luck.com/files/4.-母親40代.mp3",
+        "name": "4.-母親40代.mp3",
+        "description": "04. 母親40代"
+      },
+      {
+        "url": "http://stay-luck.com/files/5.-気弱な少年.mp3",
+        "name": "5.-気弱な少年.mp3",
+        "description": "05. 気弱な少年"
+      },
+      {
+        "url": "http://stay-luck.com/files/6.-正義感の強い女性.mp3",
+        "name": "6.-正義感の強い女性.mp3",
+        "description": "06. 正義感の強い女性"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション　航空会社CM.mp3",
+        "name": "ナレーション　航空会社CM.mp3",
+        "description": "07. ナレーション 航空会社CM"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション　店舗紹介.mp3",
+        "name": "ナレーション　店舗紹介.mp3",
+        "description": "08. ナレーション 店舗紹介"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション　旅番組.mp3",
+        "name": "ナレーション　旅番組.mp3",
+        "description": "09. ナレーション 旅番組"
+      },
+      {
+        "url": "http://stay-luck.com/files/フリートーク-9.mp3",
+        "name": "フリートーク-9.mp3",
+        "description": "10. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "小市 眞琴",
+    "homepage": "https://stay-luck.com/talent/koichi-makoto/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Makoto-Koichi_ナチュラル.mp3",
+        "name": "1Makoto-Koichi_ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Makoto-Koichi_戦士.mp3",
+        "name": "2Makoto-Koichi_戦士.mp3",
+        "description": "02. 戦士"
+      },
+      {
+        "url": " http://stay-luck.com/files/3Makoto-Koichi_海外ドラマ.mp3",
+        "name": "3Makoto-Koichi_海外ドラマ.mp3",
+        "description": "03. 海外ドラマ"
+      },
+      {
+        "url": "http://stay-luck.com/files/4Makoto-Koichi_少年.mp3",
+        "name": "4Makoto-Koichi_少年.mp3",
+        "description": "04. 少年"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Makoto-Koichi_スポーツ少年.mp3",
+        "name": "5Makoto-Koichi_スポーツ少年.mp3",
+        "description": "05. スポーツ少年"
+      },
+      {
+        "url": "http://stay-luck.com/files/6Makoto-Koichi_健気な女の子.mp3",
+        "name": "6Makoto-Koichi_健気な女の子.mp3",
+        "description": "06. 健気な女の子"
+      },
+      {
+        "url": "http://stay-luck.com/files/7Makoto-Koichi_男子.mp3",
+        "name": "7Makoto-Koichi_男子.mp3",
+        "description": "07. 男子"
+      },
+      {
+        "url": " http://stay-luck.com/files/8Makoto-Koichi_キャラもの.mp3",
+        "name": "8Makoto-Koichi_キャラもの.mp3",
+        "description": "08. キャラもの"
+      },
+      {
+        "url": "http://stay-luck.com/files/9Makoto-Koichi_番宣ナレーション.mp3",
+        "name": "9Makoto-Koichi_番宣ナレーション.mp3",
+        "description": "09. 番宣ナレーション"
+      },
+      {
+        "url": " http://stay-luck.com/files/Makoto-Koichi_freetalk.mp3",
+        "name": "Makoto-Koichi_freetalk.mp3",
+        "description": "10. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "國府 咲月",
+    "homepage": "https://stay-luck.com/talent/kokubu-satsuki/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Satsuki-Kokubu_ナチュラル.mp3",
+        "name": "1Satsuki-Kokubu_ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Satsuki-Kokubu_サポートする女性.mp3",
+        "name": "2Satsuki-Kokubu_サポートする女性.mp3",
+        "description": "02. サポートする女性"
+      },
+      {
+        "url": "http://stay-luck.com/files/3Satsuki-Kokubu_おばさん.mp3",
+        "name": "3Satsuki-Kokubu_おばさん.mp3",
+        "description": "03. おばさん"
+      },
+      {
+        "url": "http://stay-luck.com/files/4Satsuki-Kokubu_真面目な女性.mp3",
+        "name": "4Satsuki-Kokubu_真面目な女性.mp3",
+        "description": "04. 真面目な女性"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Satsuki-Kokubu_元気な男の子.mp3",
+        "name": "5Satsuki-Kokubu_元気な男の子.mp3",
+        "description": "05. 元気な男の子"
+      },
+      {
+        "url": "http://stay-luck.com/files/6Satsuki-Kokubu_クールな男の子.mp3",
+        "name": "6Satsuki-Kokubu_クールな男の子.mp3",
+        "description": "06. クールな男の子"
+      },
+      {
+        "url": "http://stay-luck.com/files/7Satsuki-Kokubu_番組ナレーション.mp3",
+        "name": "7Satsuki-Kokubu_番組ナレーション.mp3",
+        "description": "07. 番組ナレーション"
+      },
+      {
+        "url": " http://stay-luck.com/files/Satsuki-Kokubu_freetalk.mp3",
+        "name": "Satsuki-Kokubu_freetalk.mp3",
+        "description": "08. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "小鹿 るな",
+    "homepage": "https://stay-luck.com/talent/kojika-runa/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1.クール女子.wav",
+        "name": "1.クール女子.wav",
+        "description": "01. クール女子"
+      },
+      {
+        "url": "http://stay-luck.com/files/2.少女.wav",
+        "name": "2.少女.wav",
+        "description": "02. 少女"
+      },
+      {
+        "url": "http://stay-luck.com/files/3.中学生.wav",
+        "name": "3.中学生.wav",
+        "description": "03. 中学生"
+      },
+      {
+        "url": "http://stay-luck.com/files/4.気の強い高校生.wav",
+        "name": "4.気の強い高校生.wav",
+        "description": "04. 気の強い高校生"
+      },
+      {
+        "url": "http://stay-luck.com/files/5.少年.wav",
+        "name": "5.少年.wav",
+        "description": "05. 少年"
+      },
+      {
+        "url": "http://stay-luck.com/files/6.大学生.wav",
+        "name": "6.大学生.wav",
+        "description": "06. 大学生"
+      },
+      {
+        "url": "http://stay-luck.com/files/7.CMナレーション1.wav",
+        "name": "7.CMナレーション1.wav",
+        "description": "07. CMナレーション1"
+      },
+      {
+        "url": "http://stay-luck.com/files/8.CMナレーション2.wav",
+        "name": "8.CMナレーション2.wav",
+        "description": "08. CMナレーション2"
+      },
+      {
+        "url": "http://stay-luck.com/files/9.CMナレーション3.wav",
+        "name": "9.CMナレーション3.wav",
+        "description": "09. CMナレーション3"
+      },
+      {
+        "url": "http://stay-luck.com/files/10.フリートーク.wav",
+        "name": "10.フリートーク.wav",
+        "description": "10. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "小柳 日菜",
+    "homepage": "https://stay-luck.com/talent/koyanagi-hina/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Hina-Koyanagi_ナチュラル.mp3",
+        "name": "1Hina-Koyanagi_ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Hina-Koyanagi_少年.mp3",
+        "name": "2Hina-Koyanagi_少年.mp3",
+        "description": "02. 少年"
+      },
+      {
+        "url": " http://stay-luck.com/files/3Hina-Koyanagi_優しい.mp3",
+        "name": "3Hina-Koyanagi_優しい.mp3",
+        "description": "03. 優しい"
+      },
+      {
+        "url": " http://stay-luck.com/files/4Hina-Koyanagi_キャラクター.mp3",
+        "name": "4Hina-Koyanagi_キャラクター.mp3",
+        "description": "04. キャラクター"
+      },
+      {
+        "url": " http://stay-luck.com/files/5Hina-Koyanagi_CMナレーション.mp3",
+        "name": "5Hina-Koyanagi_CMナレーション.mp3",
+        "description": "05. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Hina-Koyanagi_freetalk.mp3",
+        "name": "Hina-Koyanagi_freetalk.mp3",
+        "description": "06. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "小若 和郁那",
+    "homepage": "https://stay-luck.com/talent/kowaka-wakana/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Wakana-Kowaka_ナチュラル.mp3",
+        "name": "1Wakana-Kowaka_ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Wakana-Kowaka_強気.mp3",
+        "name": "2Wakana-Kowaka_強気.mp3",
+        "description": "02. 強気"
+      },
+      {
+        "url": "http://stay-luck.com/files/3Wakana-Kowaka_上司.mp3",
+        "name": "3Wakana-Kowaka_上司.mp3",
+        "description": "03. 上司"
+      },
+      {
+        "url": "http://stay-luck.com/files/4Wakana-Kowaka_悩める女性.mp3",
+        "name": "4Wakana-Kowaka_悩める女性.mp3",
+        "description": "04. 悩める女性"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Wakana-Kowaka_ギャグ.mp3",
+        "name": "5Wakana-Kowaka_ギャグ.mp3",
+        "description": "05. ギャグ"
+      },
+      {
+        "url": "http://stay-luck.com/files/6Wakana-Kowaka_気怠げな女子高校生.mp3",
+        "name": "6Wakana-Kowaka_気怠げな女子高校生.mp3",
+        "description": "06. 気怠げな女子高校生"
+      },
+      {
+        "url": "http://stay-luck.com/files/7Wakana-Kowaka_CMナレーション.mp3",
+        "name": "7Wakana-Kowaka_CMナレーション.mp3",
+        "description": "07. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Wakana-Kowaka_freetalk.mp3",
+        "name": "Wakana-Kowaka_freetalk.mp3",
+        "description": "08. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "咲川 ひなの",
+    "homepage": "https://stay-luck.com/talent/sakikawa-hinano/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1-Hinano-Sakikawa_ナチュラル.mp3",
+        "name": "1-Hinano-Sakikawa_ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2-Hinano-Sakikawa_気弱.mp3",
+        "name": "2-Hinano-Sakikawa_気弱.mp3",
+        "description": "02. 気弱"
+      },
+      {
+        "url": "http://stay-luck.com/files/3-Hinano-Sakikawa_気丈.mp3",
+        "name": "3-Hinano-Sakikawa_気丈.mp3",
+        "description": "03. 気丈"
+      },
+      {
+        "url": "http://stay-luck.com/files/4-Hinano-Sakikawa_少女.mp3",
+        "name": "4-Hinano-Sakikawa_少女.mp3",
+        "description": "04. 少女"
+      },
+      {
+        "url": "http://stay-luck.com/files/5-Hinano-Sakikawa_TVナレーション.mp3",
+        "name": "5-Hinano-Sakikawa_TVナレーション.mp3",
+        "description": "05. TVナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/6-Hinano-Sakikawa_CMナレーション.mp3",
+        "name": "6-Hinano-Sakikawa_CMナレーション.mp3",
+        "description": "06. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Hinano-Sakikawa_フリートーク.mp3",
+        "name": "Hinano-Sakikawa_フリートーク.mp3",
+        "description": "07. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "鈴木 あやか",
+    "homepage": "https://stay-luck.com/talent/suzuki-ayaka/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1.負けず嫌い.wav",
+        "name": "1.負けず嫌い.wav",
+        "description": "01. 負けず嫌い"
+      },
+      {
+        "url": "http://stay-luck.com/files/2.上機嫌なママ.wav",
+        "name": "2.上機嫌なママ.wav",
+        "description": "02. 上機嫌なママ"
+      },
+      {
+        "url": "http://stay-luck.com/files/3.少女10代半ば.wav",
+        "name": "3.少女10代半ば.wav",
+        "description": "03. 少女10代半ば"
+      },
+      {
+        "url": "http://stay-luck.com/files/4.敵ボス.wav",
+        "name": "4.敵ボス.wav",
+        "description": "04. 敵ボス"
+      },
+      {
+        "url": "http://stay-luck.com/files/5.新人教育係.wav",
+        "name": "5.新人教育係.wav",
+        "description": "05. 新人教育係"
+      },
+      {
+        "url": "http://stay-luck.com/files/6.人のいいおばさん.wav",
+        "name": "6.人のいいおばさん.wav",
+        "description": "06. 人のいいおばさん"
+      },
+      {
+        "url": "http://stay-luck.com/files/7.ナレーションノンフィクション.wav",
+        "name": "7.ナレーションノンフィクション.wav",
+        "description": "07. ナレーション ノンフィクション"
+      },
+      {
+        "url": "http://stay-luck.com/files/8.ナレーションバラエティ.wav",
+        "name": "8.ナレーションバラエティ.wav",
+        "description": "08. ナレーション バラエティー"
+      },
+      {
+        "url": "http://stay-luck.com/files/9.フリートーク.wav",
+        "name": "9.フリートーク.wav",
+        "description": "09. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "高梁 碧",
+    "homepage": "https://stay-luck.com/talent/takahashi-ao/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/オトナのオネーサン.mp3",
+        "name": "オトナのオネーサン.mp3",
+        "description": "01. 大人なお姉さん"
+      },
+      {
+        "url": "http://stay-luck.com/files/少年.mp3",
+        "name": "少年.mp3",
+        "description": "02. 少年"
+      },
+      {
+        "url": "http://stay-luck.com/files/小さな女の子.mp3",
+        "name": "小さな女の子.mp3",
+        "description": "03. 小さな女の子"
+      },
+      {
+        "url": "http://stay-luck.com/files/怒り.mp3",
+        "name": "怒り.mp3",
+        "description": "04. 怒り"
+      },
+      {
+        "url": "http://stay-luck.com/files/キャラクター.mp3",
+        "name": "キャラクター.mp3",
+        "description": "05. キャラクター"
+      },
+      {
+        "url": "http://stay-luck.com/files/ストレートナレーション.mp3",
+        "name": "ストレートナレーション.mp3",
+        "description": "06. ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/ポップな番組ナレーション.mp3",
+        "name": "ポップな番組ナレーション.mp3",
+        "description": "07. ポップな番組ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/やわらかいナレーション.mp3",
+        "name": "やわらかいナレーション.mp3",
+        "description": "08. 柔らかいナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/モノローグ風ナレーション.mp3",
+        "name": "モノローグ風ナレーション.mp3",
+        "description": "09. モノローグ風ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/フリートーク-1.mp3",
+        "name": "フリートーク-1.mp3",
+        "description": "10. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "田中 ちえ美",
+    "homepage": "https://stay-luck.com/talent/tanaka-chiemi/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/生意気　高飛車.mp3",
+        "name": "生意気　高飛車.mp3",
+        "description": "01. 生意気"
+      },
+      {
+        "url": "http://stay-luck.com/files/大学生.mp3",
+        "name": "大学生.mp3",
+        "description": "02. 大学生"
+      },
+      {
+        "url": "http://stay-luck.com/files/やさしい先輩.mp3",
+        "name": "やさしい先輩.mp3",
+        "description": "03. 優しい"
+      },
+      {
+        "url": "http://stay-luck.com/files/ドキュメント.mp3",
+        "name": "ドキュメント.mp3",
+        "description": "04. ナレーション1"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナチュラル.mp3",
+        "name": "ナチュラル.mp3",
+        "description": "05. ナレーション2"
+      },
+      {
+        "url": "http://stay-luck.com/files/バラエティー.mp3",
+        "name": "バラエティー.mp3",
+        "description": "06. ナレーション3"
+      },
+      {
+        "url": "http://stay-luck.com/files/フリートーク-3.mp3",
+        "name": "フリートーク-3.mp3",
+        "description": "07. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "田辺 留依",
+    "homepage": "https://stay-luck.com/talent/tanabe-rui/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Rui-Tanabe_ナチュラル.mp3",
+        "name": "1Rui-Tanabe_ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Rui-Tanabe_中高生.mp3",
+        "name": "2Rui-Tanabe_中高生.mp3",
+        "description": "02. 中高生"
+      },
+      {
+        "url": "http://stay-luck.com/files/3Rui-Tanabe_Sっ気のある女性.mp3",
+        "name": "3Rui-Tanabe_Sっ気のある女性.mp3",
+        "description": "03. Sっ気のある女性"
+      },
+      {
+        "url": "http://stay-luck.com/files/4Rui-Tanabe_少女.mp3",
+        "name": "4Rui-Tanabe_少女.mp3",
+        "description": "04. 少女"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Rui-Tanabe_少年.mp3",
+        "name": "5Rui-Tanabe_少年.mp3",
+        "description": "05. 少年"
+      },
+      {
+        "url": "http://stay-luck.com/files/6Rui-Tanabe_番宣ナレーション.mp3",
+        "name": "6Rui-Tanabe_番宣ナレーション.mp3",
+        "description": "06. 番宣ナレーション"
+      },
+      {
+        "url": " http://stay-luck.com/files/Rui-Tanabe_freetalk.mp3",
+        "name": "Rui-Tanabe_freetalk.mp3",
+        "description": "07. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "積田 陽乃香",
+    "homepage": "https://stay-luck.com/talent/tsumita-honoka/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1．高校生-ナチュラル.mp3",
+        "name": "1．高校生-ナチュラル.mp3",
+        "description": "01. 高校生 ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2．高校生-自由奔放な性格.mp3",
+        "name": "2．高校生-自由奔放な性格.mp3",
+        "description": "02. 高校生 自由奔放な性格"
+      },
+      {
+        "url": "http://stay-luck.com/files/3．20代-OL.mp3",
+        "name": "3．20代-OL.mp3",
+        "description": "03. 20代 OL"
+      },
+      {
+        "url": "http://stay-luck.com/files/4．20代-動揺している女性.mp3",
+        "name": "4．20代-動揺している女性.mp3",
+        "description": "04. 20代 動揺している女性"
+      },
+      {
+        "url": "http://stay-luck.com/files/5．病弱な母親.mp3",
+        "name": "5．病弱な母親.mp3",
+        "description": "05. 病弱な母親"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション-ドキュメンタリー.mp3",
+        "name": "ナレーション-ドキュメンタリー.mp3",
+        "description": "06. ナレーション ドキュメンタリー"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション-バラエティ.mp3",
+        "name": "ナレーション-バラエティ.mp3",
+        "description": "07. ナレーション バラエティ"
+      },
+      {
+        "url": "http://stay-luck.com/files/ナレーション-小説販促.mp3",
+        "name": "ナレーション-小説販促.mp3",
+        "description": "08. ナレーション 小説販促"
+      },
+      {
+        "url": "http://stay-luck.com/files/フリートーク-14.mp3",
+        "name": "フリートーク-14.mp3",
+        "description": "09. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "出口 さくら",
+    "homepage": "https://stay-luck.com/talent/deguchi-sakura/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1.先輩OL.wav",
+        "name": "1.先輩OL.wav",
+        "description": "01. 先輩OL"
+      },
+      {
+        "url": "http://stay-luck.com/files/2.ポジティブな少女.wav",
+        "name": "2.ポジティブな少女.wav",
+        "description": "02. ポジティブな少女"
+      },
+      {
+        "url": "http://stay-luck.com/files/3.面倒見の良い少女.wav",
+        "name": "3.面倒見の良い少女.wav",
+        "description": "03. 面倒見の良い少女"
+      },
+      {
+        "url": "http://stay-luck.com/files/4.新米刑事.wav",
+        "name": "4.新米刑事.wav",
+        "description": "04. 新米刑事"
+      },
+      {
+        "url": "http://stay-luck.com/files/5.ドジな後輩.wav",
+        "name": "5.ドジな後輩.wav",
+        "description": "05. ドジな後輩"
+      },
+      {
+        "url": "http://stay-luck.com/files/6.ナレーション_元気系.wav",
+        "name": "6.ナレーション_元気系.wav",
+        "description": "06. ナレーション 元気系"
+      },
+      {
+        "url": "http://stay-luck.com/files/7.ナレーション_キャラ系.wav",
+        "name": "7.ナレーション_キャラ系.wav",
+        "description": "07. ナレーション キャラ系"
+      },
+      {
+        "url": "http://stay-luck.com/files/8.フリートーク-1.wav",
+        "name": "8.フリートーク-1.wav",
+        "description": "08. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "中野 さいま",
+    "homepage": "https://stay-luck.com/talent/nakano-saima/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1-Saima-Nakano_性悪.mp3",
+        "name": "1-Saima-Nakano_性悪.mp3",
+        "description": "01. 性悪"
+      },
+      {
+        "url": "http://stay-luck.com/files/2-Saima-Nakano_おとなしい少女.mp3",
+        "name": "2-Saima-Nakano_おとなしい少女.mp3",
+        "description": "02. おとなしい少女"
+      },
+      {
+        "url": "http://stay-luck.com/files/3-Saima-Nakano_優しい少年.mp3",
+        "name": "3-Saima-Nakano_優しい少年.mp3",
+        "description": "03. 優しい少年"
+      },
+      {
+        "url": "http://stay-luck.com/files/4-Saima-Nakano_活発な少年.mp3",
+        "name": "4-Saima-Nakano_活発な少年.mp3",
+        "description": "04. 活発な少年"
+      },
+      {
+        "url": "http://stay-luck.com/files/5-Saima-Nakano_お姉さん.mp3",
+        "name": "5-Saima-Nakano_お姉さん.mp3",
+        "description": "05. お姉さん"
+      },
+      {
+        "url": "http://stay-luck.com/files/6-Saima-Nakano_10代女の子.mp3",
+        "name": "6-Saima-Nakano_10代女の子.mp3",
+        "description": "06. 10代女の子"
+      },
+      {
+        "url": "http://stay-luck.com/files/7-Saima-Nakano_キャラクター.mp3",
+        "name": "7-Saima-Nakano_キャラクター.mp3",
+        "description": "07. キャラクター"
+      },
+      {
+        "url": "http://stay-luck.com/files/8-Saima-Nakano_CMナレーション.mp3",
+        "name": "8-Saima-Nakano_CMナレーション.mp3",
+        "description": "08. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/9-Saima-Nakano_CMナレーション2.mp3",
+        "name": "9-Saima-Nakano_CMナレーション2.mp3",
+        "description": "09. CMナレーション2"
+      },
+      {
+        "url": "http://stay-luck.com/files/10-Saima-Nakano_番宣ナレーション.mp3",
+        "name": "10-Saima-Nakano_番宣ナレーション.mp3",
+        "description": "10. 番宣ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Saima-Nakano_freetalk.mp3",
+        "name": "Saima-Nakano_freetalk.mp3",
+        "description": "11. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "拝師 みほ",
+    "homepage": "https://stay-luck.com/talent/hayashi-miho/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Miho-Hayashi_ナチュラル.mp3",
+        "name": "1Miho-Hayashi_ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Miho-Hayashi_ドS.mp3",
+        "name": "2Miho-Hayashi_ドS.mp3",
+        "description": "02. ドS"
+      },
+      {
+        "url": "http://stay-luck.com/files/3Miho-Hayashi_強気.mp3",
+        "name": "3Miho-Hayashi_強気.mp3",
+        "description": "03. 強気"
+      },
+      {
+        "url": "http://stay-luck.com/files/4Miho-Hayashi_真っ直ぐ.mp3",
+        "name": "4Miho-Hayashi_真っ直ぐ.mp3",
+        "description": "04. 真っ直ぐ"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Miho-Hayashi_純粋.mp3",
+        "name": "5Miho-Hayashi_純粋.mp3",
+        "description": "05. 純粋"
+      },
+      {
+        "url": "http://stay-luck.com/files/6Miho-Hayashi_上司.mp3",
+        "name": "6Miho-Hayashi_上司.mp3",
+        "description": "06. 上司"
+      },
+      {
+        "url": "http://stay-luck.com/files/7Miho-Hayashi_CMナレーション.mp3",
+        "name": "7Miho-Hayashi_CMナレーション.mp3",
+        "description": "07. CMナレーション"
+      },
+      {
+        "url": " http://stay-luck.com/files/8Miho-Hayashi_TVナレーション.mp3",
+        "name": "8Miho-Hayashi_TVナレーション.mp3",
+        "description": "08. TVナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Miho-Hayashi_freetalk.mp3",
+        "name": "Miho-Hayashi_freetalk.mp3",
+        "description": "09. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "引坂 理絵",
+    "homepage": "https://stay-luck.com/talent/hikisaka-rie/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Rie-Hikisaka_上京女子.mp3",
+        "name": "1Rie-Hikisaka_上京女子.mp3",
+        "description": "01. 上京女子"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Rie-Hikisaka_30代女性.mp3",
+        "name": "2Rie-Hikisaka_30代女性.mp3",
+        "description": "02. 30代女性"
+      },
+      {
+        "url": " http://stay-luck.com/files/3Rie-Hikisaka_少年.mp3",
+        "name": "3Rie-Hikisaka_少年.mp3",
+        "description": "03. 少年"
+      },
+      {
+        "url": "http://stay-luck.com/files/4Rie-Hikisaka_少女.mp3",
+        "name": "4Rie-Hikisaka_少女.mp3",
+        "description": "04. 少女"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Rie-Hikisaka_番宣ナレーション.mp3",
+        "name": "5Rie-Hikisaka_番宣ナレーション.mp3",
+        "description": "05. 番宣ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/6Rie-Hikisaka_企業ナレーション.mp3",
+        "name": "6Rie-Hikisaka_企業ナレーション.mp3",
+        "description": "06. 企業ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/7Rie-Hikisaka_番組ナレーション.mp3",
+        "name": "7Rie-Hikisaka_番組ナレーション.mp3",
+        "description": "07. 番組ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Rie-Hikisaka_freetalk.mp3",
+        "name": "Rie-Hikisaka_freetalk.mp3",
+        "description": "08. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "堀籠 沙耶",
+    "homepage": "https://stay-luck.com/talent/saya-horigome/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/①学生　女の子　元気.mp3",
+        "name": "①学生　女の子　元気.mp3",
+        "description": "01. 学生 女の子 元気"
+      },
+      {
+        "url": "http://stay-luck.com/files/②ちびキャラ.mp3",
+        "name": "②ちびキャラ.mp3",
+        "description": "02. ちびキャラ"
+      },
+      {
+        "url": "http://stay-luck.com/files/③女性　お色気系.mp3",
+        "name": "③女性　お色気系.mp3",
+        "description": "03. 女性 お色気系"
+      },
+      {
+        "url": "http://stay-luck.com/files/④30代　女性　科学者.mp3",
+        "name": "④30代　女性　科学者.mp3",
+        "description": "04. 30代女性 科学者"
+      },
+      {
+        "url": "http://stay-luck.com/files/⑥少年　熱血.mp3",
+        "name": "⑥少年　熱血.mp3",
+        "description": "05. 少年 熱血"
+      },
+      {
+        "url": "http://stay-luck.com/files/⑧少年　大人しい.mp3",
+        "name": "⑧少年　大人しい.mp3",
+        "description": "06. 少年 大人しい"
+      },
+      {
+        "url": "http://stay-luck.com/files/⑩20代（外画）女性　しっかり.mp3",
+        "name": "⑩20代（外画）女性　しっかり.mp3",
+        "description": "07. 20代女性(外画) しっかり"
+      },
+      {
+        "url": "http://stay-luck.com/files/⑪ナレーション　番組.mp3",
+        "name": "⑪ナレーション　番組.mp3",
+        "description": "08. ナレーション 番組"
+      },
+      {
+        "url": "http://stay-luck.com/files/⑫ナレーション　朗読風.mp3",
+        "name": "⑫ナレーション　朗読風.mp3",
+        "description": "09. ナレーション 朗読風"
+      },
+      {
+        "url": "http://stay-luck.com/files/フリートーク-7.mp3",
+        "name": "フリートーク-7.mp3",
+        "description": "10. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "前田 玲奈",
+    "homepage": "https://stay-luck.com/talent/maeda-rena/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Rena-Maeda_ナチュラル.mp3",
+        "name": "1Rena-Maeda_ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Rena-Maeda_バタバタ.mp3",
+        "name": "2Rena-Maeda_バタバタ.mp3",
+        "description": "02. バタバタ"
+      },
+      {
+        "url": "http://stay-luck.com/files/3Rena-Maeda_しおらしい.mp3",
+        "name": "3Rena-Maeda_しおらしい.mp3",
+        "description": "03. しおらしい"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Rena-Maeda_-お姉さん.mp3",
+        "name": "5Rena-Maeda_-お姉さん.mp3",
+        "description": "05. お姉さん"
+      },
+      {
+        "url": "http://stay-luck.com/files/6Rena-Maeda_番組ナレーション.mp3",
+        "name": "6Rena-Maeda_番組ナレーション.mp3",
+        "description": "06. 番組ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/7Rena-Maeda_CMナレーション.mp3",
+        "name": "7Rena-Maeda_CMナレーション.mp3",
+        "description": "07. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Rena-Maeda_freetalk.mp3",
+        "name": "Rena-Maeda_freetalk.mp3",
+        "description": "08. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "真野 あゆみ",
+    "homepage": "https://stay-luck.com/talent/mano-ayumi/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Ayumi-Mano_女子高校生.mp3",
+        "name": "1Ayumi-Mano_女子高校生.mp3",
+        "description": "01. 女子高校生"
+      },
+      {
+        "url": " http://stay-luck.com/files/2Ayumi-Mano_少年.mp3",
+        "name": "2Ayumi-Mano_少年.mp3",
+        "description": "02. 少年"
+      },
+      {
+        "url": "http://stay-luck.com/files/3Ayumi-Mano_クール.mp3",
+        "name": "3Ayumi-Mano_クール.mp3",
+        "description": "03. クール"
+      },
+      {
+        "url": "http://stay-luck.com/files/4Ayumi-Mano_ロリータ.mp3",
+        "name": "4Ayumi-Mano_ロリータ.mp3",
+        "description": "04. ロリータ"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Ayumi-Mano_しっかり.mp3",
+        "name": "5Ayumi-Mano_しっかり.mp3",
+        "description": "05. しっかり"
+      },
+      {
+        "url": "http://stay-luck.com/files/6Ayumi-Mano_元気.mp3",
+        "name": "6Ayumi-Mano_元気.mp3",
+        "description": "06. 元気"
+      },
+      {
+        "url": " http://stay-luck.com/files/7Ayumi-Mano_CMナレーション.mp3",
+        "name": "7Ayumi-Mano_CMナレーション.mp3",
+        "description": "07. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/8Ayumi-Mano_色物キャラナレーション.mp3",
+        "name": "8Ayumi-Mano_色物キャラナレーション.mp3",
+        "description": "08. 色物キャラナレーション1"
+      },
+      {
+        "url": "http://stay-luck.com/files/9Ayumi-Mano_色物キャラナレーション2.mp3",
+        "name": "9Ayumi-Mano_色物キャラナレーション2.mp3",
+        "description": "09. 色物キャラナレーション2"
+      },
+      {
+        "url": "http://stay-luck.com/files/Ayumi-Mano_freetalk.mp3",
+        "name": "Ayumi-Mano_freetalk.mp3",
+        "description": "10. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "丸山 京夏",
+    "homepage": "https://stay-luck.com/talent/maruyama-kyouka/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Kyoka-Maruyama_大学生.mp3",
+        "name": "1Kyoka-Maruyama_大学生.mp3",
+        "description": "01. 大学生"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Kyoka-Maruyama_高校生.mp3",
+        "name": "2Kyoka-Maruyama_高校生.mp3",
+        "description": "02. 高校生"
+      },
+      {
+        "url": "http://stay-luck.com/files/3Kyoka-Maruyama_20代.mp3",
+        "name": "3Kyoka-Maruyama_20代.mp3",
+        "description": "03. 20代"
+      },
+      {
+        "url": "http://stay-luck.com/files/4Kyoka-Maruyama_30代.mp3",
+        "name": "4Kyoka-Maruyama_30代.mp3",
+        "description": "04. 30代"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Kyoka-Maruyama_CMナレーション.mp3",
+        "name": "5Kyoka-Maruyama_CMナレーション.mp3",
+        "description": "05. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/6Kyoka-Maruyama_商品ナレーション.mp3",
+        "name": "6Kyoka-Maruyama_商品ナレーション.mp3",
+        "description": "06. 商品ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/7Kyoka-Maruyama_TVナレーション.mp3",
+        "name": "7Kyoka-Maruyama_TVナレーション.mp3",
+        "description": "07. TVナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Kyouka-Maruyama_freetalk.mp3",
+        "name": "Kyouka-Maruyama_freetalk.mp3",
+        "description": "08. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "宮白 桃子",
+    "homepage": "https://stay-luck.com/talent/miyashiro-momoko/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1-Momoko-Miyashiro_後輩.mp3",
+        "name": "1-Momoko-Miyashiro_後輩.mp3",
+        "description": "01. 後輩"
+      },
+      {
+        "url": "http://stay-luck.com/files/2-Momoko-Miyashiro_社会人.mp3",
+        "name": "2-Momoko-Miyashiro_社会人.mp3",
+        "description": "02. 社会人"
+      },
+      {
+        "url": "http://stay-luck.com/files/3-Momoko-Miyashiro_真面目.mp3",
+        "name": "3-Momoko-Miyashiro_真面目.mp3",
+        "description": "03. 真面目"
+      },
+      {
+        "url": "http://stay-luck.com/files/4-Momoko-Miyashiro_高校生.mp3",
+        "name": "4-Momoko-Miyashiro_高校生.mp3",
+        "description": "04. 高校生"
+      },
+      {
+        "url": "http://stay-luck.com/files/5-Momoko-Miyashiro_大人.mp3",
+        "name": "5-Momoko-Miyashiro_大人.mp3",
+        "description": "05. 大人"
+      },
+      {
+        "url": "http://stay-luck.com/files/6-Momoko-Miyashiro_朗読風.mp3",
+        "name": "6-Momoko-Miyashiro_朗読風.mp3",
+        "description": "06. 朗読風"
+      },
+      {
+        "url": "http://stay-luck.com/files/7-Momoko-Miyashiro_CMナレーション.mp3",
+        "name": "7-Momoko-Miyashiro_CMナレーション.mp3",
+        "description": "07. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Momoko-Miyashiro_フリートーク.mp3",
+        "name": "Momoko-Miyashiro_フリートーク.mp3",
+        "description": "08. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "村川 梨衣",
+    "homepage": "https://stay-luck.com/talent/murakawa-rie/",
+    "sex": "Male",
+    "voices": []
+  },
+  {
+    "name": "森永 千才",
+    "homepage": "https://stay-luck.com/talent/morinaga-chitose/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Chitose-Morinaga_ナチュラル.mp3",
+        "name": "1Chitose-Morinaga_ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Chitose-Morinaga_マスコット猫.mp3",
+        "name": "2Chitose-Morinaga_マスコット猫.mp3",
+        "description": "02. マスコット猫"
+      },
+      {
+        "url": "http://stay-luck.com/files/3Chitose-Morinaga_明るい.mp3",
+        "name": "3Chitose-Morinaga_明るい.mp3",
+        "description": "03. 明るい"
+      },
+      {
+        "url": "http://stay-luck.com/files/4Chitose-Morinaga_大人.mp3",
+        "name": "4Chitose-Morinaga_大人.mp3",
+        "description": "04. 大人"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Chitose-Morinaga_一番低い.mp3",
+        "name": "5Chitose-Morinaga_一番低い.mp3",
+        "description": "05. 一番低い"
+      },
+      {
+        "url": "http://stay-luck.com/files/6Chitose-Morinaga_英語セリフ.mp3",
+        "name": "6Chitose-Morinaga_英語セリフ.mp3",
+        "description": "06. 英語セリフ"
+      },
+      {
+        "url": "http://stay-luck.com/files/7Chitose-Morinaga_TVナレーション.mp3",
+        "name": "7Chitose-Morinaga_TVナレーション.mp3",
+        "description": "07. TVナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/8Chitose-Morinaga_英語番組ナレーション.mp3",
+        "name": "8Chitose-Morinaga_英語番組ナレーション.mp3",
+        "description": "08. 英語番組ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/9Chitose-Morinaga_CMナレーション.mp3",
+        "name": "9Chitose-Morinaga_CMナレーション.mp3",
+        "description": "09. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/フリートーク_森永千才.mp3",
+        "name": "フリートーク_森永千才.mp3",
+        "description": "10. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "家治 里歩",
+    "homepage": "https://stay-luck.com/talent/yaji-riho/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1-Riho-yaji_ナチュラル.mp3",
+        "name": "1-Riho-yaji_ナチュラル.mp3",
+        "description": "01. ナチュラル"
+      },
+      {
+        "url": "http://stay-luck.com/files/2-Riho-yaji_30代後半.mp3",
+        "name": "2-Riho-yaji_30代後半.mp3",
+        "description": "02. おばちゃん"
+      },
+      {
+        "url": "http://stay-luck.com/files/3-Riho-yaji_中学生.mp3",
+        "name": "3-Riho-yaji_中学生.mp3",
+        "description": "03. 中学生"
+      },
+      {
+        "url": "http://stay-luck.com/files/4-Riho-yaji_意地悪.mp3",
+        "name": "4-Riho-yaji_意地悪.mp3",
+        "description": "04. 意地悪"
+      },
+      {
+        "url": "http://stay-luck.com/files/5-Riho-yaji_CMナレーション.mp3",
+        "name": "5-Riho-yaji_CMナレーション.mp3",
+        "description": "05. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/6-Riho-yaji_番組ナレーション.mp3",
+        "name": "6-Riho-yaji_番組ナレーション.mp3",
+        "description": "06. 番組ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Riho-yaji_フリートーク.mp3",
+        "name": "Riho-yaji_フリートーク.mp3",
+        "description": "07. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "山下 莉桜菜",
+    "homepage": "https://stay-luck.com/talent/yamashita-riona/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1.10代わがままな女性.wav",
+        "name": "1.10代わがままな女性.wav",
+        "description": "01. 10代わがままな女性"
+      },
+      {
+        "url": "http://stay-luck.com/files/2.大人しい少年.wav",
+        "name": "2.大人しい少年.wav",
+        "description": "02. 大人しい少年"
+      },
+      {
+        "url": "http://stay-luck.com/files/3.高校生.wav",
+        "name": "3.高校生.wav",
+        "description": "03. 高校生"
+      },
+      {
+        "url": "http://stay-luck.com/files/4.20代女性.wav",
+        "name": "4.20代女性.wav",
+        "description": "04. 20代女性"
+      },
+      {
+        "url": "http://stay-luck.com/files/5.元気な少年.wav",
+        "name": "5.元気な少年.wav",
+        "description": "05. 元気な少年"
+      },
+      {
+        "url": "http://stay-luck.com/files/6.クールな女性.wav",
+        "name": "6.クールな女性.wav",
+        "description": "06. クールな女性"
+      },
+      {
+        "url": "http://stay-luck.com/files/7.少女.wav",
+        "name": "7.少女.wav",
+        "description": "07. 少女"
+      },
+      {
+        "url": "http://stay-luck.com/files/8.CMナレーション1.wav",
+        "name": "8.CMナレーション1.wav",
+        "description": "08. CMナレーション1"
+      },
+      {
+        "url": "http://stay-luck.com/files/9.番組ナレーション.wav",
+        "name": "9.番組ナレーション.wav",
+        "description": "09. 番組ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/10.CMナレーション2.wav",
+        "name": "10.CMナレーション2.wav",
+        "description": "10. CMナレーション2"
+      },
+      {
+        "url": "http://stay-luck.com/files/11.フリートーク.wav",
+        "name": "11.フリートーク.wav",
+        "description": "11. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "吉川 りり",
+    "homepage": "https://stay-luck.com/talent/yoshikawa-riri/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1-Riri-Yoshikawa_ギャグ.mp3",
+        "name": "1-Riri-Yoshikawa_ギャグ.mp3",
+        "description": "01. ギャグ"
+      },
+      {
+        "url": "http://stay-luck.com/files/2a-Riri-Yoshikawa_20代女性.mp3",
+        "name": "2a-Riri-Yoshikawa_20代女性.mp3",
+        "description": "02. 20代女性"
+      },
+      {
+        "url": "http://stay-luck.com/files/3-Riri-Yoshikawa_女子高生.mp3",
+        "name": "3-Riri-Yoshikawa_女子高生.mp3",
+        "description": "03. 女子高生"
+      },
+      {
+        "url": "http://stay-luck.com/files/4-Riri-Yoshikawa_社会人.mp3",
+        "name": "4-Riri-Yoshikawa_社会人.mp3",
+        "description": "04. 社会人"
+      },
+      {
+        "url": "http://stay-luck.com/files/5-Riri-Yoshikawa_真面目.mp3",
+        "name": "5-Riri-Yoshikawa_真面目.mp3",
+        "description": "05. 真面目"
+      },
+      {
+        "url": "http://stay-luck.com/files/6-Riri-Yoshikawa_CMナレーション.mp3",
+        "name": "6-Riri-Yoshikawa_CMナレーション.mp3",
+        "description": "06. CMナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/7-Riri-Yoshikawa_ドキュメンタリー.mp3",
+        "name": "7-Riri-Yoshikawa_ドキュメンタリー.mp3",
+        "description": "07. ドキュメンタリー"
+      },
+      {
+        "url": "http://stay-luck.com/files/Riri-Yoshikawa_フリートーク.mp3",
+        "name": "Riri-Yoshikawa_フリートーク.mp3",
+        "description": "08. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "若佐 なつみ",
+    "homepage": "https://stay-luck.com/talent/wakasa-natsumi/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/1Natsumi-Wakasa_OL.mp3",
+        "name": "1Natsumi-Wakasa_OL.mp3",
+        "description": "01. OL"
+      },
+      {
+        "url": "http://stay-luck.com/files/2Natsumi-Wakasa_母親.mp3",
+        "name": "2Natsumi-Wakasa_母親.mp3",
+        "description": "02. 母親"
+      },
+      {
+        "url": "http://stay-luck.com/files/3Natsumi-Wakasa_怒り.mp3",
+        "name": "3Natsumi-Wakasa_怒り.mp3",
+        "description": "03. 怒り"
+      },
+      {
+        "url": "http://stay-luck.com/files/4Natsumi-Wakasa_警官.mp3",
+        "name": "4Natsumi-Wakasa_警官.mp3",
+        "description": "04. 警官"
+      },
+      {
+        "url": "http://stay-luck.com/files/5Natsumi-Wakasa_煽り.mp3",
+        "name": "5Natsumi-Wakasa_煽り.mp3",
+        "description": "05. 煽り"
+      },
+      {
+        "url": "http://stay-luck.com/files/6Natsumi-Wakasa_CMナレーション1.mp3",
+        "name": "6Natsumi-Wakasa_CMナレーション1.mp3",
+        "description": "06. CMナレーション1"
+      },
+      {
+        "url": "http://stay-luck.com/files/7Natsumi-Wakasa_CMナレーション2.mp3",
+        "name": "7Natsumi-Wakasa_CMナレーション2.mp3",
+        "description": "07. CMナレーション2"
+      },
+      {
+        "url": "http://stay-luck.com/files/8Natsumi-Wakasa_番宣ナレーション.mp3",
+        "name": "8Natsumi-Wakasa_番宣ナレーション.mp3",
+        "description": "08. 番宣ナレーション"
+      },
+      {
+        "url": "http://stay-luck.com/files/Natsumi-Wakasa_freetalk.mp3",
+        "name": "Natsumi-Wakasa_freetalk.mp3",
+        "description": "09. フリートーク"
+      }
+    ]
+  },
+  {
+    "name": "諏訪 ななか(業務提携)",
+    "homepage": "https://stay-luck.com/talent/suwa-nanaka/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://stay-luck.com/files/SuwaNanaka_20代切ない.mp3",
+        "name": "SuwaNanaka_20代切ない.mp3",
+        "description": "01. 大学生：せつない"
+      },
+      {
+        "url": "http://stay-luck.com/files/SuwaNanaka_緊迫.mp3",
+        "name": "SuwaNanaka_緊迫.mp3",
+        "description": "02. 20代：緊迫"
+      },
+      {
+        "url": "http://stay-luck.com/files/SuwaNanaka_10代わがまま.mp3",
+        "name": "SuwaNanaka_10代わがまま.mp3",
+        "description": "03. 10代：わがまま"
+      },
+      {
+        "url": "http://stay-luck.com/files/SuwaNanaka_女子高生.mp3",
+        "name": "SuwaNanaka_女子高生.mp3",
+        "description": "04. 女子高生"
+      },
+      {
+        "url": "http://stay-luck.com/files/SuwaNanaka_幼い令嬢.mp3",
+        "name": "SuwaNanaka_幼い令嬢.mp3",
+        "description": "05. 幼い令嬢"
+      },
+      {
+        "url": "http://stay-luck.com/files/SuwaNanaka_ナレーション１.mp3",
+        "name": "SuwaNanaka_ナレーション１.mp3",
+        "description": "06. ナレーション1"
+      },
+      {
+        "url": "http://stay-luck.com/files/SuwaNanaka_ナレーション２.mp3",
+        "name": "SuwaNanaka_ナレーション２.mp3",
+        "description": "07. ナレーション2"
+      }
+    ]
+  },
+  {
+    "name": "中島 愛(業務提携)",
+    "homepage": "https://stay-luck.com/talent/nakajima-megumi/",
+    "sex": "Male",
+    "voices": []
+  }
+]

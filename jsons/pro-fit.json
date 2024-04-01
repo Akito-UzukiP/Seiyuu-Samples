@@ -1,0 +1,362 @@
+[
+  {
+    "name": "森沢 芙美",
+    "homepage": "http://www.pro-fit.co.jp/talent_morisawa.html",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v7_morisawa.mp3",
+        "name": "v7_morisawa.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "升望",
+    "homepage": "http://www.pro-fit.co.jp/talent_masu.html",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v8_masu.mp3",
+        "name": "v8_masu.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "増岡 太郎",
+    "homepage": "http://www.pro-fit.co.jp/talent_masuoka.html",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v1_masuoka.mp3",
+        "name": "v1_masuoka.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "岡本 信彦",
+    "homepage": "http://www.pro-fit.co.jp/talent_okamoto.html",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v2_okamoto.mp3",
+        "name": "v2_okamoto.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "悠木 碧",
+    "homepage": "http://www.pro-fit.co.jp/talent_yuki.html",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v9_yuki.mp3",
+        "name": "v9_yuki.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "高森奈津美",
+    "homepage": "http://www.pro-fit.co.jp/talent_takamori.html",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v10_takamori.mp3",
+        "name": "v10_takamori.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "高橋 伸也",
+    "homepage": "http://www.pro-fit.co.jp/talent_takahashi.html",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v3_takahashi.mp3",
+        "name": "v3_takahashi.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "石川界人",
+    "homepage": "http://www.pro-fit.co.jp/talent_ishikawa.html",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v17_ishikawa.mp3",
+        "name": "v17_ishikawa.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "中根久美子",
+    "homepage": "http://www.pro-fit.co.jp/talent_nakane.html",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v11_nakane.mp3",
+        "name": "v11_nakane.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "岡田幸子",
+    "homepage": "http://www.pro-fit.co.jp/talent_okada.html",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v12_okada.mp3",
+        "name": "v12_okada.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "相馬康一",
+    "homepage": "http://www.pro-fit.co.jp/talent_souma.html",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v6_souma.mp3",
+        "name": "v6_souma.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "杉崎 亮",
+    "homepage": "http://www.pro-fit.co.jp/talent_sugisaki.html",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v4_sugisaki.mp3",
+        "name": "v4_sugisaki.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "三宅 麻理恵",
+    "homepage": "http://www.pro-fit.co.jp/talent_miyake.html",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v13_miyake.mp3",
+        "name": "v13_miyake.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "羽月 理恵",
+    "homepage": "http://www.pro-fit.co.jp/talent_haduki.html",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v14_haduki.mp3",
+        "name": "v14_haduki.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "峰 健一",
+    "homepage": "http://www.pro-fit.co.jp/talent_mine.html",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v5_mine.mp3",
+        "name": "v5_mine.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "小林 康介",
+    "homepage": "http://www.pro-fit.co.jp/talent_kobayashi.html",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v18_kobayashi.mp3",
+        "name": "v18_kobayashi.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "長妻樹里",
+    "homepage": "http://www.pro-fit.co.jp/talent_nagatuma.html",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v15_nagatuma.mp3",
+        "name": "v15_nagatuma.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "石上静香",
+    "homepage": "http://www.pro-fit.co.jp/talent_ishigami.html",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v16_ishigami.mp3",
+        "name": "v16_ishigami.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "石谷春貴",
+    "homepage": "http://www.pro-fit.co.jp/talent_ishiya.html",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v25_ishiya.mp3",
+        "name": "v25_ishiya.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "堀江瞬",
+    "homepage": "http://www.pro-fit.co.jp/talent_horie.html",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v27_horie.mp3",
+        "name": "v27_horie.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "鬼頭明里",
+    "homepage": "http://www.pro-fit.co.jp/talent_kito.html",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v28_kito.mp3",
+        "name": "v28_kito.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "石見舞菜香",
+    "homepage": "http://www.pro-fit.co.jp/talent_iwami.html",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v30_iwami.mp3",
+        "name": "v30_iwami.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "長谷川育美",
+    "homepage": "http://www.pro-fit.co.jp/talent_hasegawa.html",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v31_hasegawa.mp3",
+        "name": "v31_hasegawa.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "ファイルーズあい",
+    "homepage": "http://www.pro-fit.co.jp/talent_fairouzai.html",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v39_fairouzai.mp3",
+        "name": "v39_fairouzai.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "高柳知葉",
+    "homepage": "http://www.pro-fit.co.jp/talent_takayanagi.html",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v29_takayanagi.mp3",
+        "name": "v29_takayanagi.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "首藤志奈",
+    "homepage": "http://www.pro-fit.co.jp/talent_shuto.html",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v32_shuto.mp3",
+        "name": "v32_shuto.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "関幸司",
+    "homepage": "http://www.pro-fit.co.jp/talent_seki.html",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v20_seki.mp3",
+        "name": "v20_seki.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "渡辺紘",
+    "homepage": "http://www.pro-fit.co.jp/talent_watanabe.html",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v24_watanabe.mp3",
+        "name": "v24_watanabe.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "坂泰斗",
+    "homepage": "http://www.pro-fit.co.jp/talent_ban.html",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "http://www.pro-fit.co.jp/voice/v35_ban.mp3",
+        "name": "v35_ban.mp3",
+        "description": "ボイスサンプル"
+      }
+    ]
+  },
+  {
+    "name": "小森 まなみ",
+    "homepage": "http://www.pro-fit.co.jp/talent_komori.html",
+    "sex": "Female",
+    "voices": []
+  },
+  {
+    "name": "塩屋 翼",
+    "homepage": "http://www.pro-fit.co.jp/talent_sioya.html",
+    "sex": "Female",
+    "voices": []
+  }
+]
