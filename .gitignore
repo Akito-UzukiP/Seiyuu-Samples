@@ -1,1 +1,5 @@
 *.ipynb
+/downloaded_voices
+download.py
+/scrappers/work.ipynb
+sigma7.json

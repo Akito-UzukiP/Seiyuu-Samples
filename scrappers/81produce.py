@@ -13,9 +13,13 @@ for url in urls:
     table = soup.find("table", class_="table01")
     for a in table.find_all("a"):
         actor = {}       
+        if a.text == "":
+            continue
         actor["name"] = a.text.replace("\u3000"," ").strip()
         actor["homepage"] = a["href"]
         actor["sex"] = "Male" if url == urls[1] else "Female"
+        if actor["name"] == "":
+            continue
         actors.append(actor)
 
 

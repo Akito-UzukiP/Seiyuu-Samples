@@ -13,8 +13,10 @@
 - 7. Mausu
 - 8. Ken Production
 - 10. VIMS
-- 11. Sigma Seven
+- 11. Sigma Seven (* download links protected by recaptcha)
 - 12. Stay-Luck
+- 13. kenyu-office
+- 14. yu-rin
 - Wonder-Space
 - Bungakuza
 
@@ -22,7 +24,8 @@
 ## Not Available:
 - Atomic Monkey (access key required)
 - 東京俳優生活協同組合 (all voice samples have BGM)
-- Axl-One (almost no voice samples)
+- Axl-One (almost no voice sample)
 - Intention-k (recaptcha)
 - Himawari Theatre Group (login required)
-- Music Ray'n (no voice samples)
+- Music Ray'n (no voice sample)
+- across-ent (no voice sample)
