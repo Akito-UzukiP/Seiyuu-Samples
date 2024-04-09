@@ -17,6 +17,9 @@
 - 12. Stay-Luck
 - 13. kenyu-office
 - 14. yu-rin
+- 15. amuleto
+- 16. hibiki
+- 17. pro-baobab
 - Wonder-Space
 - Bungakuza
 

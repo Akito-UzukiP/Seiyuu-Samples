@@ -1,0 +1,254 @@
+[
+  {
+    "name": "橘田 いずみ",
+    "homepage": "https://hibiki-cast.jp/hibiki_f/kitta_izumi/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2018/01/kitta_sample.mp3",
+        "name": "kitta_sample.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "三森 すずこ",
+    "homepage": "https://hibiki-cast.jp/hibiki_f/mimori_suzuko/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2018/01/190426-mimori-VS_OK.mp3",
+        "name": "190426-mimori-VS_OK.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "佐々木 未来",
+    "homepage": "https://hibiki-cast.jp/hibiki_f/sasaki_mikoi/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2018/01/佐々木未来VS.mp3",
+        "name": "佐々木未来VS.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "愛美",
+    "homepage": "https://hibiki-cast.jp/hibiki_f/aimi/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2018/01/Aimi202002.mp3",
+        "name": "Aimi202002.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "伊藤 彩沙",
+    "homepage": "https://hibiki-cast.jp/hibiki_f/ito_ayasa/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2018/01/ItouAyasa202002.mp3",
+        "name": "ItouAyasa202002.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "西本 りみ",
+    "homepage": "https://hibiki-cast.jp/hibiki_f/nishimoto_rimi/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2019/08/NishimotoRimi_VoiceSample.mp3",
+        "name": "NishimotoRimi_VoiceSample.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "相羽 あいな",
+    "homepage": "https://hibiki-cast.jp/hibiki_f/aiba_aina/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2019/04/【響】相羽あいな_ボイスサンプル.mp3",
+        "name": "【響】相羽あいな_ボイスサンプル.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "遠野 ひかる",
+    "homepage": "https://hibiki-cast.jp/hibiki_f/tono_hikaru/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2018/01/【響】遠野ひかる_ボイスサンプル.mp3",
+        "name": "【響】遠野ひかる_ボイスサンプル.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "進藤 あまね",
+    "homepage": "https://hibiki-cast.jp/hibiki_f/shindou_amane/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2018/09/進藤あまね　ボイスサンプル　最終稿.mp3",
+        "name": "進藤あまね　ボイスサンプル　最終稿.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "西尾 夕香",
+    "homepage": "https://hibiki-cast.jp/hibiki_f/nishio_yuka/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2019/04/【響】西尾夕香ボイスサンプル-1.mp3",
+        "name": "【響】西尾夕香ボイスサンプル-1.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "美波 わかな",
+    "homepage": "https://hibiki-cast.jp/hibiki_f/minami_wakana/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2019/08/【響】美波わかな_ボイスサンプル.mp3",
+        "name": "【響】美波わかな_ボイスサンプル.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "深川 瑠華",
+    "homepage": "https://hibiki-cast.jp/hibiki_f/fukagawa_ruka/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2020/04/【響】深川瑠華_ボイスサンプル.mp3",
+        "name": "【響】深川瑠華_ボイスサンプル.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "渡瀬 結月",
+    "homepage": "https://hibiki-cast.jp/hibiki_f/watase_yuzuki/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2020/04/【響】渡瀬結月_ボイスサンプル.mp3",
+        "name": "【響】渡瀬結月_ボイスサンプル.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "青木 陽菜",
+    "homepage": "https://hibiki-cast.jp/hibiki_f/aoki_hina/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2021/02/【響】青木陽菜_ボイスサンプル.mp3",
+        "name": "【響】青木陽菜_ボイスサンプル.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "立石 凛",
+    "homepage": "https://hibiki-cast.jp/hibiki_f/tateishi_rin/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2021/02/【響】立石凛_ボイスサンプル.mp3",
+        "name": "【響】立石凛_ボイスサンプル.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "千春",
+    "homepage": "https://hibiki-cast.jp/hibiki_f/chiharu/",
+    "sex": "Male",
+    "voices": [
+      {
+        "url": "https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2021/09/千春_ボイスサンプル　最新-1.mp3",
+        "name": "千春_ボイスサンプル　最新-1.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "森嶋 秀太",
+    "homepage": "https://hibiki-cast.jp/hibiki_m/morishima_syuta/",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2018/09/MorishimaSyuta_VoiceSample.mp3",
+        "name": "MorishimaSyuta_VoiceSample.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "前田 誠二",
+    "homepage": "https://hibiki-cast.jp/hibiki_m/maeda_seiji/",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2024/04/【響】前田誠二_ボイスサンプル-1.mp3",
+        "name": "【響】前田誠二_ボイスサンプル-1.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "真野 拓実",
+    "homepage": "https://hibiki-cast.jp/hibiki_m/mano_takumi/",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2018/09/TakumiMano_VoiceSample.mp3",
+        "name": "TakumiMano_VoiceSample.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "日向 大輔",
+    "homepage": "https://hibiki-cast.jp/hibiki_m/hyuga_daisuke/",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2018/09/DaisukeHyuga_VoiceSample.mp3",
+        "name": "DaisukeHyuga_VoiceSample.mp3",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "伊藤 昌弘",
+    "homepage": "https://hibiki-cast.jp/hibiki_m/ito_masahiro/",
+    "sex": "Female",
+    "voices": [
+      {
+        "url": "https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2018/09/【響】伊藤昌弘.mp3",
+        "name": "【響】伊藤昌弘.mp3",
+        "description": ""
+      }
+    ]
+  }
+]
